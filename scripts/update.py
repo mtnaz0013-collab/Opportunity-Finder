@@ -21,14 +21,33 @@ def looks_scam(text): return bool(BAD.search(text) or FREE_MAIL.search(text))
 def strip(s): return re.sub(r"<[^>]+>", " ", s or "")
 
 # ---------- Job sources ----------
+CITY = {"Germany":["berlin","munich","münchen","hamburg","frankfurt","cologne","köln","stuttgart","düsseldorf","dusseldorf","leipzig","dresden","hannover","nuremberg","bremen","germany","deutschland"],
+ "UK":["london","manchester","birmingham","edinburgh","glasgow","bristol","leeds","cambridge","oxford","united kingdom"," uk"],
+ "Netherlands":["amsterdam","rotterdam","utrecht","eindhoven","the hague","netherlands"],
+ "France":["paris","lyon","marseille","toulouse","france"],
+ "Austria":["vienna","wien","graz","salzburg","austria"],
+ "Switzerland":["zurich","zürich","geneva","basel","switzerland"],
+ "Ireland":["dublin","cork","ireland"],"Spain":["madrid","barcelona","spain"],
+ "Sweden":["stockholm","gothenburg","sweden"],"Poland":["warsaw","krakow","poland"],
+ "Portugal":["lisbon","porto","portugal"],"Italy":["milan","rome","italy"],
+ "Denmark":["copenhagen","denmark"],"Belgium":["brussels","belgium"],
+ "USA":["new york","san francisco","usa","united states"],"Canada":["toronto","vancouver","canada"]}
+def guess_country(loc):
+    l = " " + (loc or "").lower()
+    for c, keys in CITY.items():
+        if any(k in l for k in keys): return c
+    return "Europe/Other"
+
 def arbeitnow():
     out = []
     d = get("https://www.arbeitnow.com/api/job-board-api")
     for j in d.get("data", []):
         txt = strip(j.get("description", ""))
         tags = " ".join(j.get("tags", []) + j.get("job_types", []))
-        out.append(dict(title=j["title"], company=j["company_name"], location=j.get("location", ""),
-            country="Germany/EU", remote=j.get("remote", False),
+        loc = j.get("location", "")
+        is_remote = bool(j.get("remote")) or "remote" in loc.lower() or "remote" in j["title"].lower()
+        out.append(dict(title=j["title"], company=j["company_name"], location=loc,
+            country=guess_country(loc), remote=is_remote,
             visa=("visa" in (tags + txt).lower() and "sponsor" in (tags + txt).lower()),
             url=j["url"], source="Arbeitnow", date=NOW, _t=txt))
     return out
