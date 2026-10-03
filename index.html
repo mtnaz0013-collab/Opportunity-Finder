@@ -1,0 +1,26 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Opportunity Finder</title>
+<link rel="manifest" href="manifest.json"><meta name="theme-color" content="#0f766e"><link rel="icon" href="icon.svg">
+<style>
+:root{--bg:#f6f7f4;--cd:#fff;--tx:#1d2420;--mu:#64706a;--ac:#0f766e;--bd:#dfe4de}
+@media(prefers-color-scheme:dark){:root{--bg:#121715;--cd:#1b221f;--tx:#e8eeea;--mu:#9aa8a1;--ac:#2dd4bf;--bd:#2c3631}}
+body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.5 system-ui,sans-serif}.w{max-width:800px;margin:auto;padding:14px}
+button,input{font:inherit}.t{display:flex;gap:6px;margin:10px 0}.t button{flex:1;padding:9px;border:1px solid var(--bd);background:var(--cd);color:var(--tx);border-radius:999px}
+.t .on{background:var(--ac);color:#fff}input{width:100%;box-sizing:border-box;padding:10px;border:1px solid var(--bd);border-radius:8px;background:var(--cd);color:var(--tx);margin-bottom:10px}
+.c{background:var(--cd);border:1px solid var(--bd);border-radius:12px;padding:12px;margin-bottom:9px}.c h3{margin:0;font-size:16px}.m{color:var(--mu);font-size:13px}
+.g{display:inline-block;font-size:12px;border:1px solid var(--bd);border-radius:6px;padding:1px 7px;margin:4px 4px 0 0}.v{border-color:var(--ac);color:var(--ac)}a{color:var(--ac);font-weight:600;text-decoration:none}</style></head>
+<body><div class="w"><h2 style="margin:6px 0">🌍 Opportunity Finder</h2><div class="m" id="up"></div>
+<div class="t"><button id="b1" class="on">🎓 Scholarships</button><button id="b2">💼 Jobs</button></div>
+<input id="q" placeholder="Search (country, title, company…)"><div id="l"></div></div>
+<script>
+let tab=1,D={s:[],j:[]};const $=i=>document.getElementById(i);
+const e=s=>{const d=document.createElement("div");d.textContent=s??"";return d.innerHTML};
+async function load(){try{const[s,j]=await Promise.all([fetch("data/scholarships.json").then(r=>r.json()),fetch("data/jobs.json").then(r=>r.json())]);
+D.s=s.scholarships;D.j=j.jobs;$("up").textContent=j.updated?"Jobs updated: "+j.updated+" · "+j.rejected_as_suspicious+" suspicious offers filtered out":"";}catch(x){$("up").textContent="Offline / data not found"}draw()}
+function draw(){const q=$("q").value.toLowerCase();let h="";
+if(tab==1)D.s.filter(x=>JSON.stringify(x).toLowerCase().includes(q)).forEach(x=>h+=`<div class="c"><h3>${e(x.name)}</h3><div class="m">${e(x.country)} · ${e(x.level)} · ${e(x.cycle)}</div>${x.needs_review?'<span class="g v">⚠ Official page changed '+e(x.changed_on)+' — check</span>':''}<div>${x.covers.map(c=>'<span class="g">'+e(c)+'</span>').join("")}</div><p><a href="${e(x.url)}" target="_blank" rel="noopener">Official site ↗</a></p></div>`);
+else D.j.filter(x=>JSON.stringify(x).toLowerCase().includes(q)).slice(0,100).forEach(x=>h+=`<div class="c"><h3>${e(x.title)}</h3><div class="m">${e(x.company)} · ${e(x.location)} · ${e(x.source)}</div>${x.visa?'<span class="g v">Visa sponsorship</span>':''}${x.remote?'<span class="g">Remote</span>':''}${x.salary?'<span class="g">'+e(x.salary)+'</span>':''}<p><a href="${e(x.url)}" target="_blank" rel="noopener">View job ↗</a></p></div>`);
+$("l").innerHTML=h||'<p class="m">Kuch nahi mila.</p>'}
+$("b1").onclick=()=>{tab=1;$("b1").className="on";$("b2").className="";draw()};$("b2").onclick=()=>{tab=2;$("b2").className="on";$("b1").className="";draw()};$("q").oninput=draw;
+load();if("serviceWorker"in navigator)navigator.serviceWorker.register("sw.js");
+</script></body></html>

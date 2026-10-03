@@ -1,0 +1,144 @@
+{
+ "scholarships": [
+  {
+   "name": "Chevening (UK)",
+   "country": "UK",
+   "level": "Masters",
+   "cycle": "Aug–Nov",
+   "covers": [
+    "Full tuition",
+    "Monthly stipend",
+    "Return flight",
+    "Visa fee"
+   ],
+   "url": "https://www.chevening.org"
+  },
+  {
+   "name": "Fulbright Pakistan (USA)",
+   "country": "USA",
+   "level": "Masters/PhD",
+   "cycle": "Mid-year via USEFP",
+   "covers": [
+    "Tuition",
+    "Stipend",
+    "Airfare",
+    "Health insurance"
+   ],
+   "url": "https://www.usefp.org"
+  },
+  {
+   "name": "DAAD (Germany)",
+   "country": "Germany",
+   "level": "Masters/PhD",
+   "cycle": "Oct–Nov",
+   "covers": [
+    "Monthly stipend",
+    "Health insurance",
+    "Travel allowance"
+   ],
+   "url": "https://www.daad.de/en/"
+  },
+  {
+   "name": "Türkiye Burslari",
+   "country": "Turkey",
+   "level": "Bachelors/Masters/PhD",
+   "cycle": "Jan–Feb",
+   "covers": [
+    "Tuition",
+    "Accommodation",
+    "Stipend",
+    "Flight",
+    "Insurance"
+   ],
+   "url": "https://turkiyeburslari.gov.tr"
+  },
+  {
+   "name": "Stipendium Hungaricum",
+   "country": "Hungary",
+   "level": "Bachelors/Masters/PhD",
+   "cycle": "Jan",
+   "covers": [
+    "Tuition",
+    "Stipend",
+    "Accommodation support",
+    "Insurance"
+   ],
+   "url": "https://stipendiumhungaricum.hu"
+  },
+  {
+   "name": "Chinese Govt Scholarship (CSC)",
+   "country": "China",
+   "level": "Bachelors/Masters/PhD",
+   "cycle": "Jan–Apr",
+   "covers": [
+    "Tuition waived",
+    "Accommodation",
+    "Stipend",
+    "Insurance"
+   ],
+   "url": "https://www.campuschina.org"
+  },
+  {
+   "name": "MEXT (Japan)",
+   "country": "Japan",
+   "level": "Bachelors/Masters/PhD",
+   "cycle": "Apr–May via embassy",
+   "covers": [
+    "Tuition exempt",
+    "Monthly allowance",
+    "Airfare"
+   ],
+   "url": "https://www.studyinjapan.go.jp/en/"
+  },
+  {
+   "name": "Erasmus Mundus",
+   "country": "Europe",
+   "level": "Masters",
+   "cycle": "Oct–Jan",
+   "covers": [
+    "Tuition",
+    "Travel",
+    "Living allowance"
+   ],
+   "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters"
+  },
+  {
+   "name": "Gates Cambridge",
+   "country": "UK",
+   "level": "Masters/PhD",
+   "cycle": "Oct–Dec",
+   "covers": [
+    "Full cost of study",
+    "Maintenance",
+    "Airfare"
+   ],
+   "url": "https://www.gatescambridge.org"
+  },
+  {
+   "name": "Australia Awards",
+   "country": "Australia",
+   "level": "Masters",
+   "cycle": "Feb–Apr",
+   "covers": [
+    "Tuition",
+    "Return travel",
+    "Living contribution",
+    "Health cover"
+   ],
+   "url": "https://www.australiaawards.gov.au"
+  },
+  {
+   "name": "Commonwealth Scholarships",
+   "country": "UK",
+   "level": "Masters/PhD",
+   "cycle": "Oct–Dec",
+   "covers": [
+    "Tuition",
+    "Airfare",
+    "Stipend",
+    "Thesis grant"
+   ],
+   "url": "https://cscuk.fcdo.gov.uk"
+  }
+ ]
+}
