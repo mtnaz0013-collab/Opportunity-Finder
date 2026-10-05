@@ -24,7 +24,9 @@
     "Airfare",
     "Health insurance"
    ],
-   "url": "https://www.usefp.org"
+   "url": "https://www.usefp.org",
+   "hash": "3a1535074e38b403abdf7445c1e37fcf6ae37a3f10549445b12125eae1b9a27f",
+   "checked": "2026-10-05"
   },
   {
    "name": "DAAD (Germany)",
@@ -36,7 +38,9 @@
     "Health insurance",
     "Travel allowance"
    ],
-   "url": "https://www.daad.de/en/"
+   "url": "https://www.daad.de/en/",
+   "hash": "78ce54c282bb90de8e68727641fa0c5e44466795c6e1009fb2a683909b3f7b4a",
+   "checked": "2026-10-05"
   },
   {
    "name": "Türkiye Burslari",
@@ -50,7 +54,9 @@
     "Flight",
     "Insurance"
    ],
-   "url": "https://turkiyeburslari.gov.tr"
+   "url": "https://turkiyeburslari.gov.tr",
+   "hash": "bb56ce4396350cd01ea30b1072e913ef77ccec44356c75b599273bef8abd894a",
+   "checked": "2026-10-05"
   },
   {
    "name": "Stipendium Hungaricum",
@@ -63,7 +69,9 @@
     "Accommodation support",
     "Insurance"
    ],
-   "url": "https://stipendiumhungaricum.hu"
+   "url": "https://stipendiumhungaricum.hu",
+   "hash": "9dd06bce9531e734b9fd2b2b2971139d968c33e84332fcb975b67cfe122f1ca6",
+   "checked": "2026-10-05"
   },
   {
    "name": "Chinese Govt Scholarship (CSC)",
@@ -88,7 +96,9 @@
     "Monthly allowance",
     "Airfare"
    ],
-   "url": "https://www.studyinjapan.go.jp/en/"
+   "url": "https://www.studyinjapan.go.jp/en/",
+   "hash": "1b6ec0b327b7b1bc6beb867837ed35164cc680a320d06f3c20f3cc498575b88d",
+   "checked": "2026-10-05"
   },
   {
    "name": "Erasmus Mundus",
@@ -100,7 +110,9 @@
     "Travel",
     "Living allowance"
    ],
-   "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters"
+   "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
+   "hash": "95e25610fff79308fd40f3d2137340c8941745a451a538948ed48dadc83cdac8",
+   "checked": "2026-10-05"
   },
   {
    "name": "Gates Cambridge",
@@ -112,7 +124,9 @@
     "Maintenance",
     "Airfare"
    ],
-   "url": "https://www.gatescambridge.org"
+   "url": "https://www.gatescambridge.org",
+   "hash": "4639ccdf88d95c510f0f3ba18d9ee2505ca6a923f44930f39347e14dc1cb863e",
+   "checked": "2026-10-05"
   },
   {
    "name": "Australia Awards",
@@ -138,7 +152,9 @@
     "Stipend",
     "Thesis grant"
    ],
-   "url": "https://cscuk.fcdo.gov.uk"
+   "url": "https://cscuk.fcdo.gov.uk",
+   "hash": "fdc0169a48ed33c329e25bdb7fce832b8bf68c5e4de60edf4c7a39587ed71833",
+   "checked": "2026-10-05"
   }
  ]
 }

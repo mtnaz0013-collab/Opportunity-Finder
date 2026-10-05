@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-04",
- "rejected_as_suspicious": 2,
+ "updated": "2026-10-05",
+ "rejected_as_suspicious": 1,
  "jobs": [
   {
    "title": "Client Enablement & Coaching Lead (F/H/X)",
@@ -11,18 +11,7 @@
    "visa": true,
    "url": "https://www.arbeitnow.fr/jobs/companies/kraken/client-enablement-coaching-lead-paris-401186",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Head of Europe Government Sales",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "country": "Germany",
-   "remote": false,
-   "visa": true,
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/head-of-europe-government-sales-munich-323196",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Human Design Program Lead (F/H/X)",
@@ -33,40 +22,40 @@
    "visa": true,
    "url": "https://www.arbeitnow.fr/jobs/companies/kraken/human-design-program-lead-paris-74225",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Lead Project Manager Dual Use In-Orbit Services",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "country": "Germany",
+   "title": "Research Scientist, Computational Enzymology",
+   "company": "Dayhoff Labs",
+   "location": "Cambridge, MA",
+   "country": "UK",
    "remote": false,
    "visa": true,
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/lead-project-manager-dual-use-in-orbit-services-munich-477218",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/dayhoff-labs/research-scientist-computational-enzymology-cambridge-ma-56281",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Lead Supply Chain",
-   "company": "The Exploration Company",
-   "location": "Munich, Germany",
-   "country": "Germany",
+   "title": "Senior ML Engineer | Kimchi (LLM Inference Optimization)",
+   "company": "Kimchi",
+   "location": "",
+   "country": "Europe/Other",
    "remote": false,
    "visa": true,
-   "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/lead-supply-chain-munich-112168",
+   "url": "https://www.arbeitnow.fr/jobs/companies/kimchi/senior-ml-engineer-kimchi-llm-inference-optimization-160265",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Product Design Manager",
-   "company": "N8N",
-   "location": "Germany",
-   "country": "Germany",
+   "title": "Senior People Specialist - Right to Work & Immigration Operations",
+   "company": "ocadogroup",
+   "location": "Hatfield",
+   "country": "Europe/Other",
    "remote": false,
    "visa": true,
-   "url": "https://www.arbeitnow.com/jobs/companies/n8n/product-design-manager-germany-212541",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/senior-people-specialist-right-to-work-immigration-operations-hatfield-229420",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Technical Program Lead (F/H/X)",
@@ -77,40 +66,29 @@
    "visa": true,
    "url": "https://www.arbeitnow.fr/jobs/companies/kraken/technical-program-lead-paris-304328",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Werkstudent (m/w/d) im Bereich ISMS",
-   "company": "neoshare",
-   "location": "München",
-   "country": "Germany",
-   "remote": false,
-   "visa": true,
-   "url": "https://www.arbeitnow.com/jobs/companies/neoshare/werkstudent-im-bereich-isms-munchen-223852",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "(Junior) RevOps Engineer - m/f/d",
-   "company": "Langdock",
+   "title": "(Senior) AI Product Engineer (m/w/d)",
+   "company": "Legalhero",
    "location": "Berlin",
    "country": "Germany",
-   "remote": false,
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/langdock/junior-revops-engineer-berlin-456218",
+   "url": "https://www.arbeitnow.com/jobs/companies/legalhero/remote-senior-ai-product-engineer-berlin-260132",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "(Senior) Brand Designer",
-   "company": "Moonfare",
-   "location": "London",
-   "country": "UK",
+   "title": "(Senior) Account Executive - France",
+   "company": "Lobster Data Gmbh",
+   "location": "France Office Paris",
+   "country": "France",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/moonfare/senior-brand-designer-london-184578",
+   "url": "https://www.arbeitnow.fr/jobs/companies/lobster-data-gmbh/senior-account-executive-france-france-office-paris-341352",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "(Senior) Manager (f/m/d) Finance & Accounting Advisory - US Markets",
@@ -121,51 +99,51 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/cfgigermany/senior-manager-finance-accounting-advisory-us-markets-schweiz-zurich-167224",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "(Senior) Manager CEO Office (f/m/d)",
-   "company": "bunch",
-   "location": "Berlin",
+   "title": "(Senior) Social Brand Manager (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-social-brand-manager-all-genders-hybrid-282227",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "(Senior) Team Head Accounting (m/w/d)",
+   "company": "Allane SE",
+   "location": "München",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-manager-ceo-office-berlin-4426",
+   "url": "https://www.arbeitnow.com/jobs/companies/allane-se/senior-team-head-accounting-munchen-222002",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "AI Client Executive",
-   "company": "Supermodular.ai",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/supermodularai/ai-client-executive-london-477484",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "AI First Data Engineer",
-   "company": "isolutions",
-   "location": "Zürich",
-   "country": "Switzerland",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/ai-first-data-engineer-zurich-65570",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "AI Lead (gn)",
-   "company": "Workidentity",
-   "location": "Hamburg",
+   "title": "AI Education Expert (m/f/d) for the European AI Factory HammerHAI",
+   "company": "Lrz",
+   "location": "Garching bei München",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/workidentity/ai-lead-gn-hamburg-324733",
+   "url": "https://www.arbeitnow.com/jobs/companies/lrz/ai-education-expert-for-the-european-ai-factory-hammerhai-garching-bei-munchen-200665",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "AI Engineer",
+   "company": "Lemrock",
+   "location": "Paris (hybrid)",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/lemrock/ai-engineer-paris-365273",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "AI Response Evaluator",
@@ -177,18 +155,18 @@
    "salary": "$10K-$20K",
    "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
    "source": "Remotive",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "AI Software Development Consultant (m/w/d)",
-   "company": "Invensity Group",
-   "location": "Stuttgart (Hybrid)",
-   "country": "Germany",
+   "title": "AI Solutions Engineer",
+   "company": "Cascination Ag",
+   "location": "Bern",
+   "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/invensity-group/ai-software-development-consultant-stuttgart-hybrid-65283",
+   "url": "https://www.arbeitnow.ch/jobs/companies/cascination-ag/ai-solutions-engineer-bern-41824",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "AI Trainers Network - Maltese",
@@ -199,18 +177,73 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/jobgether/ai-trainers-network-maltese-switzerland-212079",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "AI engineer (AI & GenAI) - People Domain (f/m/d)",
-   "company": "Decathlontechnology",
-   "location": "Paris, Paris",
-   "country": "France",
+   "title": "AV Business Director (12 month FTC - Betfred)",
+   "company": "wppmedia",
+   "location": "Manchester",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/ai-engineer-ai-genai-people-domain-paris-paris-229691",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/av-business-director-12-month-ftc-betfred-manchester-428643",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Account Director",
+   "company": "Onestream",
+   "location": "",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/onestream/account-director-402373",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Account Director, Data Operations",
+   "company": "wppmedia",
+   "location": "London",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/account-director-data-operations-london-193968",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Account Executive (all genders)",
+   "company": "Synaos Gmbh",
+   "location": "Germany (remote)",
+   "country": "Germany",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/synaos-gmbh/remote-account-executive-all-genders-319132",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Account Executive (m/f/d)",
+   "company": "Bliq",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/bliq/account-executive-berlin-383801",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Account Executive (m/f/d)",
+   "company": "Mercanis",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/mercanis/account-executive-berlin-226826",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Account Executive - France",
@@ -221,51 +254,62 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-account-executive-france-411683",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Account Manager",
-   "company": "TransPerfect",
-   "location": "Paris, Île-de-France, France",
-   "country": "France",
+   "title": "Account Executive, Enterprise",
+   "company": "Metaview",
+   "location": "London",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/account-manager-paris-245272",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/metaview/account-executive-enterprise-london-343825",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Account Manager",
-   "company": "TransPerfect",
-   "location": "Paris, Île-de-France, France",
-   "country": "France",
+   "title": "Account Executive/Sales (m/f/d)",
+   "company": "Hive Robotics",
+   "location": "München",
+   "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/account-manager-paris-87122",
+   "url": "https://www.arbeitnow.com/jobs/companies/hive-robotics/account-executive-sales-munchen-119750",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Account Manager",
-   "company": "TransPerfect",
-   "location": "Paris, Île-de-France, France",
-   "country": "France",
+   "title": "Account Manager (UK)",
+   "company": "Fonio",
+   "location": "London",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/account-manager-paris-14246",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/fonio/account-manager-uk-london-81963",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Alternance - Conseiller de Vente (H/F) - Aix-en-Provence",
-   "company": "Sezane 3",
-   "location": "Aix-en-Provence, France",
-   "country": "France",
+   "title": "Air Freight Pricing Manager (m/f/d)",
+   "company": "F H Bertling",
+   "location": "Hamburg",
+   "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/alternance-conseiller-de-vente-h-f-aix-en-provence-472991",
+   "url": "https://www.arbeitnow.com/jobs/companies/f-h-bertling/air-freight-pricing-manager-hamburg-274666",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Alternance Assistant RH (F/H)",
+   "company": "Castrol",
+   "location": "",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/castrol/alternance-assistant-rh-f-h-96941",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Anti-Corruption & Trade Compliance Legal Counsel",
@@ -276,18 +320,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/anti-corruption-trade-compliance-legal-counsel-paris-83732",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Applikations- und Softwarebetreuer*in (m/w/d)",
-   "company": "Its Gruppe",
-   "location": "Dortmund, Hamburg, Erfurt, Karlsruhe, Leipzig",
+   "title": "Anwendungsarchitekt - Full-Stack Java/Spring, React, K8s (m/w/d)",
+   "company": "Auxilius.ai",
+   "location": "Munich",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/its-gruppe/applikations-und-softwarebetreuerin-dortmund-hamburg-erfurt-karlsruhe-leipzig-425323",
+   "url": "https://www.arbeitnow.com/jobs/companies/auxiliusai/anwendungsarchitekt-full-stack-java-spring-react-k8s-munich-321699",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Art Director 100% (a)",
@@ -298,7 +342,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/brandleadership/art-director-100-a-steinhausen-135768",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Art Director 100% (a)",
@@ -309,7 +353,73 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/brandleadership/art-director-100-a-steinhausen-443240",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Associate Director, Commerce",
+   "company": "wppmedia",
+   "location": "London",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-commerce-london-471054",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Associate Director, Connectivity",
+   "company": "tripadvisor",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/remote-associate-director-connectivity-265399",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Associate Director, Planning",
+   "company": "wppmedia",
+   "location": "London",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-planning-london-273010",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Associate Director, Social",
+   "company": "wppmedia",
+   "location": "London",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/associate-director-social-london-36071",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Associate Product Manager (US Cards)",
+   "company": "Lendable",
+   "location": "London",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/associate-product-manager-us-cards-london-70852",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Automation Engineer (gn) Industrial Robotics & Software Development",
+   "company": "Wandelbots GmbH",
+   "location": "Dresden",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/automation-engineer-gn-industrial-robotics-software-development-dresden-321788",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Automation Lead",
@@ -320,18 +430,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/orakl-oncology/automation-lead-villejuif-208586",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Azure Engineer",
-   "company": "isolutions",
-   "location": "Zürich",
-   "country": "Switzerland",
+   "title": "B2B Sales Associate",
+   "company": "Pmmalliance",
+   "location": "Hybrid",
+   "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/azure-engineer-zurich-280951",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/b2b-sales-associate-london-409463",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Brand Design Intern or Apprentice",
@@ -342,18 +452,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/brand-design-intern-or-apprentice-paris-102533",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Brand Designer",
-   "company": "Blablacar",
-   "location": "Paris, France",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/blablacar/brand-designer-paris-france-178035",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Brand Manager",
@@ -364,29 +463,40 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/flink/brand-manager-zurich-196111",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Business Development Representative (German speaking)",
-   "company": "Wayflyer",
-   "location": "Berlin",
-   "country": "Germany",
+   "title": "Business Analyst",
+   "company": "Paddle",
+   "location": "UK",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/wayflyer/business-development-representative-german-speaking-berlin-147890",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/business-analyst-uk-207605",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Business Development Representative (f/m/d)",
-   "company": "Moss",
-   "location": "Berlin",
-   "country": "Germany",
+   "title": "Business Development Manager (AI Data Solutions)",
+   "company": "TransPerfect",
+   "location": "Paris, Île-de-France, France",
+   "country": "France",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/moss/business-development-representative-berlin-249672",
+   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-409629",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Business Development Manager - AI Data Solutions (Paris)",
+   "company": "TransPerfect",
+   "location": "Paris, Île-de-France, France",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/business-development-manager-ai-data-solutions-paris-380239",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Business Development Representative - Baltics H/F",
@@ -397,7 +507,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/business-development-representative-baltics-h-f-paris-336022",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Business Development Representative - Marché Français",
@@ -408,7 +518,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/amenitiz/business-development-representative-marche-francais-lyon-379550",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Business Development Representative - Nordics H/F",
@@ -419,7 +529,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/business-development-representative-nordics-h-f-paris-295153",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Business Development Representative - Southern Europe H/H",
@@ -430,18 +540,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/business-development-representative-southern-europe-h-h-paris-281385",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Business Development Representative - UK",
-   "company": "Pandektes",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/pandektes/business-development-representative-uk-london-244206",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "CDI - BARISTA - Flagship Le Marais",
@@ -452,29 +551,40 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/ami-paris/cdi-barista-flagship-le-marais-paris-117527",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "CMM / Messtechnik Spezialist | 100% | Region: St. Gallen, Schweiz",
-   "company": "CONCAPE",
-   "location": "Tuttlingen",
-   "country": "Europe/Other",
+   "title": "Campaign Executive",
+   "company": "wppmedia",
+   "location": "London",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/concape/cmm-messtechnik-spezialist-100-region-st-gallen-schweiz-tuttlingen-438675",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/campaign-executive-london-300822",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "CX Apprentice - AI & Data Integration",
-   "company": "Thgingenuity",
-   "location": "Northwich",
-   "country": "Europe/Other",
+   "title": "Campaign Executive",
+   "company": "wppmedia",
+   "location": "London",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/cx-apprentice-ai-data-integration-northwich-231113",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/campaign-executive-london-251491",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Campaign Executive",
+   "company": "wppmedia",
+   "location": "London",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/campaign-executive-london-333843",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Chief of Staff",
@@ -485,18 +595,29 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/jua/chief-of-staff-zurich-124295",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Cloud Software Engineering Internship (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
+   "title": "Chief of Staff, Global Sales",
+   "company": "reddit",
+   "location": "London",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/cloud-software-engineering-internship-2027-start-442089",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/reddit/chief-of-staff-global-sales-london-38684",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Client Experience Intern (f/m/d)",
+   "company": "Upvest",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/upvest/client-experience-intern-berlin-65927",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Commercial Director - Bern (m/f/d)",
@@ -507,18 +628,40 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/sanoptis/commercial-director-bern-368715",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Commercial Support Associate",
-   "company": "AMBOSS",
-   "location": "Berlin",
-   "country": "Germany",
+   "title": "Commercial Performance Senior Manager",
+   "company": "Leovegasgroup",
+   "location": "Newcastle Upon Tyne, UK",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/amboss/commercial-support-associate-berlin-377445",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/commercial-performance-senior-manager-newcastle-upon-tyne-457240",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Commercial Performance Senior Manager",
+   "company": "Leovegasgroup",
+   "location": "Leeds, UK",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/commercial-performance-senior-manager-leeds-378923",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Commercial Senior Finance Manager",
+   "company": "ocadogroup",
+   "location": "Hatfield",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/ocadogroup/commercial-senior-finance-manager-hatfield-123483",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Computational design of biological experiments for model development",
@@ -529,18 +672,29 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/inceptive/computational-design-of-biological-experiments-for-model-development-berlin-germany-or-palo-alto-ca-or-zurich-446408",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Conseiller de Vente (H/F) - 35H CDD - Aix-en-Provence",
-   "company": "Sezane 3",
-   "location": "Aix-en-Provence, France",
-   "country": "France",
-   "remote": false,
+   "title": "Content Editor",
+   "company": "Higgsfield",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/sezane-3/conseiller-de-vente-h-f-35h-cdd-aix-en-provence-427155",
+   "url": "https://www.arbeitnow.fr/jobs/companies/higgsfield/remote-content-editor-133934",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Content Editor",
+   "company": "Higgsfield",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.ch/jobs/companies/higgsfield/remote-content-editor-407861",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Content Reviewer - United States",
@@ -552,29 +706,7 @@
    "salary": "",
    "url": "https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144",
    "source": "Remotive",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Controller",
-   "company": "Notabene",
-   "location": "Remote",
-   "country": "Europe/Other",
-   "remote": true,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/notabene/remote-controller-358524",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Controller",
-   "company": "Notabene",
-   "location": "Remote",
-   "country": "Europe/Other",
-   "remote": true,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/notabene/remote-controller-54080",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Controller",
@@ -585,29 +717,62 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/notabene/remote-controller-104271",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Coordinator, Front of House & Workplace Experience",
-   "company": "Checkout.com",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
+   "title": "Creative Strategist (m/w/d)",
+   "company": "RealStudio GmbH",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/coordinator-front-of-house-workplace-experience-london-468825",
+   "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/creative-strategist-berlin-477796",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Customer Marketer",
-   "company": "Alan",
-   "location": "Anywhere in France",
+   "title": "Customer Care Specialist",
+   "company": "Lucis",
+   "location": "Paris",
    "country": "France",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/alan/customer-marketer-anywhere-in-france-287188",
+   "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-specialist-paris-309097",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Customer Care Team Lead",
+   "company": "Lucis",
+   "location": "Paris",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/lucis/customer-care-team-lead-paris-289034",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Customer Success & Onboarding (m/w/d) – Teilzeit, 20 Std./Woche",
+   "company": "Novo AI GmbH",
+   "location": "Hannover",
+   "country": "Germany",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/novo-ai-gmbh/customer-success-onboarding-teilzeit-20-std-woche-hannover-15231",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Customer Success Expert (m/f/d) for the European AI Factory HammerHAI",
+   "company": "Lrz",
+   "location": "Garching bei München",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/lrz/customer-success-expert-for-the-european-ai-factory-hammerhai-garching-bei-munchen-234899",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Customer Success Intern – Mirakl Ads, Paris",
@@ -618,18 +783,29 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/customer-success-intern-mirakl-ads-paris-186091",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Customer Success Manager",
-   "company": "isolutions",
-   "location": "Zürich",
-   "country": "Switzerland",
+   "title": "Customer Success Manager- France",
+   "company": "Onestream",
+   "location": "",
+   "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/customer-success-manager-zurich-326585",
+   "url": "https://www.arbeitnow.fr/jobs/companies/onestream/customer-success-manager-france-4073",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Customer Success Partner (EMEA)",
+   "company": "Creatoriq",
+   "location": "Paris",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/creatoriq/customer-success-partner-emea-paris-37428",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Daimler Buses – Automobil-Mechatroniker / Automobil-Fachmann (m/w) für Nutzfahrzeuge – Domdidier (Fribourg)",
@@ -640,7 +816,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/edl-consulting/daimler-buses-automobil-mechatroniker-automobil-fachmann-m-w-fur-nutzfahrzeuge-domdidier-fribourg-316470",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Daimler Buses – Teamleiter Ersatzteile (m/w) – Granges-Paccot (Fribourg)",
@@ -651,29 +827,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/edl-consulting/daimler-buses-teamleiter-ersatzteile-m-w-granges-paccot-fribourg-449612",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Data & AI Pre-Sales Consultant",
-   "company": "isolutions",
-   "location": "Zürich",
-   "country": "Switzerland",
+   "title": "Data Platform Engineer (f/m/d)  for the European AI Factory HammerHAI",
+   "company": "Lrz",
+   "location": "Garching bei München",
+   "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/data-ai-pre-sales-consultant-zurich-485095",
+   "url": "https://www.arbeitnow.com/jobs/companies/lrz/data-platform-engineer-for-the-european-ai-factory-hammerhai-garching-bei-munchen-110447",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Data Center Facilities Operations Technician (all genders)",
-   "company": "Contabo",
-   "location": "Lauterbourg",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/contabo/data-center-facilities-operations-technician-all-genders-lauterbourg-202218",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Data selection and quality evaluation for biological foundation models",
@@ -684,40 +849,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/inceptive/data-selection-and-quality-evaluation-for-biological-foundation-models-berlin-germany-or-palo-alto-ca-or-zurich-494569",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Data specialist",
-   "company": "Watershed",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/watershed/data-specialist-london-174955",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Dedicated Support Engineer - London",
-   "company": "Openai",
-   "location": "London, UK",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/openai/dedicated-support-engineer-london-363290",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Deputy Lead Quality (Aerospace / Defense) (a) | Region: Stuttgart, Germany",
-   "company": "CONCAPE",
-   "location": "Ingolstadt",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/concape/deputy-lead-quality-aerospace-defense-a-region-stuttgart-germany-ingolstadt-454754",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Designer/ Art Director Healthcare (m/w/d)",
@@ -728,62 +860,84 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/ogilvy/designer-art-director-healthcare-zurich-170544",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "DevOps Engineer",
-   "company": "isolutions",
-   "location": "Zürich",
-   "country": "Switzerland",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/devops-engineer-zurich-14809",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Director of Customer Lifecycle (CRM)",
-   "company": "Almedia",
-   "location": "Berlin",
+   "title": "Director Customer Experience (CX) (w/m/d)",
+   "company": "Netformic",
+   "location": "Office Stuttgart",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/almedia/director-of-customer-lifecycle-crm-berlin-177806",
+   "url": "https://www.arbeitnow.com/jobs/companies/netformic/director-customer-experience-cx-office-stuttgart-210707",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Director of Solutions Engineering - EMEA Enterprise",
-   "company": "Decagon",
-   "location": "London",
-   "country": "UK",
+   "title": "Director of Strategic Accounts (Paris)",
+   "company": "TransPerfect",
+   "location": "Paris, Île-de-France, France",
+   "country": "France",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/decagon/director-of-solutions-engineering-emea-enterprise-london-341170",
+   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/director-of-strategic-accounts-paris-394914",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Director of Solutions Engineering - EMEA Strat",
-   "company": "Decagon",
-   "location": "London",
-   "country": "UK",
+   "title": "Director, Business Development",
+   "company": "TransPerfect",
+   "location": "Paris, Île-de-France, France",
+   "country": "France",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/decagon/director-of-solutions-engineering-emea-strat-london-295251",
+   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/director-business-development-paris-317367",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Director, CRM",
-   "company": "Neko Health",
-   "location": "London",
-   "country": "UK",
+   "title": "Director, Business Development - Corporate Division",
+   "company": "TransPerfect",
+   "location": "Paris, Île-de-France, France",
+   "country": "France",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/director-crm-london-480903",
+   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/director-business-development-corporate-division-paris-118206",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Director, Business Development - TransPerfect Life Sciences",
+   "company": "TransPerfect",
+   "location": "Paris, Île-de-France, France",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/director-business-development-transperfect-life-sciences-paris-349089",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Director, Customer Success EMEA (Southern and Central Europe)",
+   "company": "Onestream",
+   "location": "",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/onestream/director-customer-success-emea-southern-and-central-europe-143953",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Director, International Privacy Lead and Data Protection Officer",
+   "company": "Alnylampharmaceuticals",
+   "location": "Zug",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.ch/jobs/companies/alnylampharmaceuticals/director-international-privacy-lead-and-data-protection-officer-zug-350108",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Distinguished PQC Cryptography & Architecture Leader",
@@ -794,18 +948,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/ionq/distinguished-pqc-cryptography-architecture-leader-geneva-105282",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Division Director arveo services (m/w/d)",
-   "company": "European IT Consultancy EITCO GmbH",
-   "location": "Berlin",
-   "country": "Germany",
+   "title": "Développeur Full Stack JS",
+   "company": "Arkane Cloud",
+   "location": "Lyon",
+   "country": "France",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/european-it-consultancy-eitco-gmbh/division-director-arveo-services-berlin-12538",
+   "url": "https://www.arbeitnow.fr/jobs/companies/arkane-cloud/developpeur-full-stack-js-lyon-212212",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "EMEA Account Executive (German speaking)",
@@ -816,161 +970,183 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/deepgram/emea-account-executive-german-speaking-switzerland-3547",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Energy Commercial Expert (German Speaking)",
-   "company": "Gorilla",
-   "location": "Germany (remote)",
-   "country": "Germany",
-   "remote": true,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/gorilla/remote-energy-commercial-expert-german-speaking-90956",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Engineering Manager ERP (f/m/x)",
-   "company": "Enpal",
-   "location": "Berlin",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/enpal/engineering-manager-erp-berlin-274294",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "English Language Instructor",
-   "company": "TransPerfect",
-   "location": "Paris, Île-de-France, France",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/english-language-instructor-paris-297165",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Enterprise Account Director (New Business)",
-   "company": "Vonage",
-   "location": "London",
+   "title": "Engineering Manager (Subscriptions)",
+   "company": "Paddle",
+   "location": "UK",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/vonage/enterprise-account-director-new-business-london-409188",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/engineering-manager-subscriptions-uk-463623",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Enterprise Account Executive - Berlin (m/w/d)",
-   "company": "Ideals",
-   "location": "Berlin, Germany",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/ideals/enterprise-account-executive-berlin-berlin-germany-426670",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Enterprise Account Executive, Nordics",
-   "company": "Sierra",
-   "location": "London",
+   "title": "Engineering Manager - AI Payments App",
+   "company": "Bjak",
+   "location": "United Kingdom",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/sierra/enterprise-account-executive-nordics-london-380578",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-payments-app-london-463434",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Enterprise Account Manager (all genders) – Retail",
-   "company": "Wemolo",
-   "location": "Munich",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/wemolo/enterprise-account-manager-all-genders-retail-munchen-146100",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Enterprise Account Manager - UK",
-   "company": "Dandy",
-   "location": "United Kingdom - London",
+   "title": "Engineering Manager - AI Payments App",
+   "company": "Bjak",
+   "location": "United Kingdom",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/dandy/enterprise-account-manager-uk-london-62232",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-payments-app-london-386738",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Enterprise Sales Executive",
-   "company": "Illumio",
-   "location": "France",
-   "country": "France",
+   "title": "Engineering Manager - AI-Native Email App",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/illumio/enterprise-sales-executive-paris-234636",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-ai-native-email-app-london-491649",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Enterprise Solutions Architect (gn)",
-   "company": "Workidentity",
-   "location": "Bremen",
-   "country": "Germany",
+   "title": "Engineering Manager - Stock Trading App",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/workidentity/enterprise-solutions-architect-gn-bremen-451928",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-stock-trading-app-london-117538",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Expert Data Catalog (f/m/d)",
-   "company": "Decathlontechnology",
-   "location": "Villeneuve-d'Ascq, Nord",
+   "title": "Engineering Manager - Travel FX App",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-travel-fx-app-london-229331",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Engineering Manager - Wealth Management App",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-wealth-management-app-london-426615",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Engineering Manager – United Kingdom",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/engineering-manager-united-kingdom-london-65906",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Engineering Manager, AI CICD",
+   "company": "chainguard",
+   "location": "",
    "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/expert-data-catalog-villeneuve-dascq-nord-234153",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/chainguard/engineering-manager-ai-cicd-161384",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "FFE Design Lead",
-   "company": "Neko Health",
+   "title": "Enterprise Account Executive",
+   "company": "workato",
    "location": "London",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/neko-health/ffe-design-lead-london-207039",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/workato/enterprise-account-executive-london-20615",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "FP&A Manager",
-   "company": "Peec AI",
-   "location": "Berlin",
+   "title": "Enterprise Account Executive - Dutch Speaking",
+   "company": "Algolia",
+   "location": "Paris",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/algolia/enterprise-account-executive-dutch-speaking-paris-90923",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Enterprise Account Executive - German-Speaking",
+   "company": "Pallet",
+   "location": "London, UK or Zurich",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.ch/jobs/companies/pallet/enterprise-account-executive-german-speaking-london-uk-or-zurich-246269",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Enterprise Account Executive - Portuguese-Speaking  - London, UK",
+   "company": "Pallet",
+   "location": "London, UK or Zurich",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.ch/jobs/companies/pallet/enterprise-account-executive-portuguese-speaking-london-uk-london-uk-or-zurich-358209",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Enterprise Account Executive - Spanish -Speaking  - London, UK",
+   "company": "Pallet",
+   "location": "London, UK or Zurich",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.ch/jobs/companies/pallet/enterprise-account-executive-spanish-speaking-london-uk-london-uk-or-zurich-96162",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Entrepreneur in Residence",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/entrepreneur-in-residence-london-62951",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Fachinformatikerin (m/w/d) - Systemintegration",
+   "company": "Lrz",
+   "location": "Garching bei München",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/fpa-manager-berlin-493536",
+   "url": "https://www.arbeitnow.com/jobs/companies/lrz/fachinformatikerin-systemintegration-garching-bei-munchen-64696",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Field & Campaign Manager DACH (m/w/d)",
-   "company": "epilot GmbH",
-   "location": "Köln, Nordrhein-Westfalen, Germany",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/field-campaign-manager-dach-koln-172588",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Field Operations Specialist",
@@ -981,51 +1157,51 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/field-operations-specialist-paris-425593",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Forward Deployed Engineer (m/f/d)",
-   "company": "praxipal",
-   "location": "Berlin",
-   "country": "Germany",
+   "title": "Finance Transformation Manager",
+   "company": "Unity Advisory",
+   "location": "London, Mayfair",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/praxipal/forward-deployed-engineer-berlin-76605",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/unity-advisory/finance-transformation-manager-london-8556",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Founder's Associate",
-   "company": "Almedia",
-   "location": "Berlin",
-   "country": "Germany",
+   "title": "Financial Accountant (m/w, 80–100%)",
+   "company": "Felfel",
+   "location": "Zürich",
+   "country": "Switzerland",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/almedia/founders-associate-berlin-351116",
+   "url": "https://www.arbeitnow.ch/jobs/companies/felfel/financial-accountant-m-w-80-100-zurich-85713",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Founding Customer Support Engineer",
-   "company": "comstruct ICT",
-   "location": "Munich",
-   "country": "Germany",
+   "title": "Forward Deployed Engineer - AI",
+   "company": "Avepoint",
+   "location": "London",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/comstruct-ict/founding-customer-support-engineer-munich-325214",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/forward-deployed-engineer-ai-london-370964",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Founding Engineer",
-   "company": "Almedia",
-   "location": "Berlin",
-   "country": "Germany",
+   "title": "Forward Deployed Engineer, EMEA",
+   "company": "Exa",
+   "location": "London",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/almedia/founding-engineer-berlin-176331",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/exa/forward-deployed-engineer-emea-london-158413",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Founding People & Talent Partner",
@@ -1036,7 +1212,19 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/founding-people-talent-partner-zurich-247195",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Freelance Copywriter",
+   "company": "Coalition Technologies ",
+   "location": "Worldwide",
+   "country": "Remote",
+   "remote": true,
+   "visa": false,
+   "salary": "$20k -$35k",
+   "url": "https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306",
+   "source": "Remotive",
+   "date": "2026-10-05"
   },
   {
    "title": "Freelance Writer",
@@ -1048,7 +1236,7 @@
    "salary": "$50-$75 /hour",
    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
    "source": "Remotive",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Frontend Web Application Developer",
@@ -1060,260 +1248,51 @@
    "salary": "$90k - $105k",
    "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
    "source": "Remotive",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Full-Stack AI Developer – Agentic Systems (m/f/d)",
-   "company": "autonomous-teaming",
+   "title": "GTM UK · Intern / Working Student",
+   "company": "Autarcenergy",
    "location": "Berlin",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/full-stack-ai-developer-agentic-systems-berlin-47774",
+   "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/gtm-uk-intern-working-student-berlin-322253",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Gestionnaire financier et budgétaire, en charge des recettes",
-   "company": "ECOLE NATIONALE SUPERIEURE DE TECHNIQUES AVANCEES",
-   "location": "Palaiseau, Île-de-France, France",
-   "country": "France",
-   "remote": false,
+   "title": "Global Sales Director of SMB, New Business",
+   "company": "gitlab",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/ecole-nationale-superieure-de-techniques-avancees/gestionnaire-financier-et-budgetaire-en-charge-des-recettes-palaiseau-433117",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-global-sales-director-of-smb-new-business-267208",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Global Account Executive (UK or Netherlands)",
-   "company": "Singu",
-   "location": "UK",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/singu/global-account-executive-uk-or-netherlands-466306",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Global Account Manager (UK)",
-   "company": "Singu",
-   "location": "UK",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/singu/global-account-manager-uk-7902",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Global Equity Tax Specialist",
-   "company": "Checkout.com",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/global-equity-tax-specialist-london-161161",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate AI Engineer (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
+   "title": "Global Sales Executive",
+   "company": "Pmmalliance",
+   "location": "Hybrid",
    "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-ai-engineer-2027-start-461546",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/global-sales-executive-london-22411",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Graduate Analyst Programme - Capabilities",
-   "company": "Baringa",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/graduate-analyst-programme-capabilities-london-472210",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Analyst Programme - Energy & Resources",
-   "company": "Baringa",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/graduate-analyst-programme-energy-resources-london-372170",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Analyst Programme - Financial Services",
-   "company": "Baringa",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/graduate-analyst-programme-financial-services-london-201298",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Analyst Programme - Products & Services",
-   "company": "Baringa",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/graduate-analyst-programme-products-services-london-6521",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Analyst Programme - Public Sector Consulting",
-   "company": "Baringa",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/graduate-analyst-programme-public-sector-consulting-london-456572",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Cloud Software Engineer (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
+   "title": "Global VP Food Ingredients m/f/d",
+   "company": "GFIC",
+   "location": "Heidelberg",
    "country": "Europe/Other",
-   "remote": false,
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-cloud-software-engineer-2027-start-289314",
+   "url": "https://www.arbeitnow.com/jobs/companies/gfic/global-vp-food-ingredients-heidelberg-422763",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate DSP Engineer (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-dsp-engineer-2027-start-353693",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Design Engineer - Healthcare (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-design-engineer-healthcare-2027-start-340915",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Electronics & Software Engineer (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-electronics-software-engineer-2027-start-296663",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Electronics Engineer (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-electronics-engineer-2027-start-246496",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Electronics Engineer - (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-electronics-engineer-2027-start-474259",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Electronics Engineer - RF (2026 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-electronics-engineer-rf-2026-start-280782",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Human-Centric AI Engineer (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-human-centric-ai-engineer-2027-start-405650",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Mechanical/Biomedical Engineer (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-mechanical-biomedical-engineer-2027-start-9798",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate RF Engineer, Telecommunications (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-rf-engineer-telecommunications-2027-start-267420",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Sales Associate (f/m/d)",
-   "company": "Moss",
-   "location": "Berlin",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/moss/graduate-sales-associate-berlin-405925",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Graduate Software Test Engineer (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/graduate-software-test-engineer-2027-start-440565",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Graphic Designer 100% (a)",
@@ -1324,7 +1303,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/brandleadership/graphic-designer-100-a-steinhausen-474329",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Graphic Designer 100% (a)",
@@ -1335,7 +1314,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/brandleadership/graphic-designer-100-a-steinhausen-223954",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Growth Manager (AI x Renewables)",
+   "company": "Autarcenergy",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/growth-manager-ai-x-renewables-berlin-385743",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "HR & Marketing Coordinator (m/w/d) – Remote CH",
@@ -1346,29 +1336,62 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/edl-consulting/hr-marketing-coordinator-remote-ch-schweiz-234768",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Head of Financial Systems Transformation",
-   "company": "Taxfix",
+   "title": "Head of Account Management (m/w/d) - 100% Remote - B2B",
+   "company": "RealStudio GmbH",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/head-of-account-management-100-remote-b2b-berlin-94847",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Head of Content (m/w/d) - Berlin",
+   "company": "RealStudio GmbH",
    "location": "Berlin",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/taxfix/head-of-financial-systems-transformation-berlin-321762",
+   "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/head-of-content-berlin-451873",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Head of Growth, Margin Trading",
-   "company": "Kraken",
-   "location": "United Kingdom",
-   "country": "UK",
-   "remote": false,
+   "title": "Head of Influencer Marketing (m/w/d)",
+   "company": "RealStudio GmbH",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/kraken/head-of-growth-margin-trading-london-247338",
+   "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/head-of-influencer-marketing-berlin-315589",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Head of Performance Marketing (m/w/d) bei Livom",
+   "company": "livom möbel ag",
+   "location": "Wasserburg am Inn",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/livom-mobel-ag/head-of-performance-marketing-bei-livom-wasserburg-am-inn-129440",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Head of TikTok Shop (m/w/d)",
+   "company": "RealStudio GmbH",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/head-of-tiktok-shop-berlin-479576",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Helicopter Engineer - ACH135 | Yacht-Based | Med & Caribbean",
@@ -1379,51 +1402,29 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/elesta/remote-helicopter-engineer-ach135-yacht-based-med-caribbean-switzerland-451770",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "IT Infrastructure Engineer (gn)",
-   "company": "Workidentity",
-   "location": "Hamburg",
+   "title": "IT Systemadministrator (all genders welcome)",
+   "company": "Triple A",
+   "location": "Berlin",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/workidentity/it-infrastructure-engineer-gn-hamburg-456419",
+   "url": "https://www.arbeitnow.com/jobs/companies/triple-a/it-systemadministrator-all-genders-welcome-berlin-34593",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "IT Operations Specialist (m/f/d)",
-   "company": "Statista",
-   "location": "Hamburg",
-   "country": "Germany",
-   "remote": false,
+   "title": "Influencer Performance Marketing Manager (m/w/d)",
+   "company": "Visca Marketing GmbH",
+   "location": "Haßloch",
+   "country": "Europe/Other",
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/statista/it-operations-specialist-hamburg-153112",
+   "url": "https://www.arbeitnow.com/jobs/companies/visca-marketing-gmbh/influencer-performance-marketing-manager-hassloch-116023",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "IT-Security Engineer (gn)",
-   "company": "Workidentity",
-   "location": "Hamburg",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/workidentity/it-security-engineer-gn-hamburg-305422",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "IT-Systemadministrator (gn)",
-   "company": "Workidentity",
-   "location": "Stuttgart",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/workidentity/it-systemadministrator-gn-stuttgart-223201",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Infrastructure Software Engineer",
@@ -1434,7 +1435,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/namespace/infrastructure-software-engineer-zurich-3753",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Ingénieur Assurance Qualité Projets",
@@ -1445,7 +1446,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/excelya/ingenieur-assurance-qualite-projets-toulouse-432574",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Inside Sales Contractor",
@@ -1457,29 +1458,7 @@
    "salary": "OTE $25k - $35k",
    "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
    "source": "Remotive",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Interim FP&A Director (6 Months FTC)",
-   "company": "Everway",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/everway/interim-fpa-director-6-months-ftc-497882",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Japanese Language Trainer",
-   "company": "TransPerfect",
-   "location": "Paris, Île-de-France, France",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/japanese-language-trainer-paris-301781",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Java Backend Entwickler",
@@ -1490,7 +1469,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/java-backend-entwickler-luzern-95490",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Junior Backend Developer, C# .Net - Paris",
@@ -1501,40 +1480,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/junior-backend-developer-c-net-paris-113660",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Junior Computational Geometry Engineer",
-   "company": "Saeki",
-   "location": "Zurich",
-   "country": "Switzerland",
+   "title": "Key Account Manager Automotive France (m/f/d)",
+   "company": "Hongfa Europe Gmbh",
+   "location": "FR",
+   "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.ch/jobs/companies/saeki/junior-computational-geometry-engineer-zurich-128102",
+   "url": "https://www.arbeitnow.fr/jobs/companies/hongfa-europe-gmbh/key-account-manager-automotive-france-329137",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Junior Full Stack Engineer | AI & Security",
-   "company": "Escape",
-   "location": "Paris Office",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/escape/junior-full-stack-engineer-ai-security-paris-149930",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Junior Sales Manager DACH (Remote in Germany)",
-   "company": "AMBOSS",
-   "location": "Remote - Germany",
-   "country": "Germany",
-   "remote": true,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/amboss/junior-sales-manager-dach-remote-in-germany-11037",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Key Account Manager KRESS (m/w/d)",
@@ -1545,84 +1502,161 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/positec-germany-gmbh/key-account-manager-kress-hybrid-183067",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Key Account Manager Lead - Imagerie Médicale (x/f/m)",
-   "company": "Doctolib",
-   "location": "Paris, Paris",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/key-account-manager-lead-imagerie-medicale-paris-paris-396830",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Key Account Manager Senior / Lead - Laboratoires (x/f/m)",
-   "company": "Doctolib",
-   "location": "Paris, Paris",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/key-account-manager-senior-lead-laboratoires-paris-paris-323405",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Lead Accountant e/v/e/r/y/o/n/e",
-   "company": "ten23 health AG",
-   "location": "Basel",
-   "country": "Switzerland",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.ch/jobs/companies/ten23-health-ag/lead-accountant-n-e-basel-451364",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Lead Data & AI Innovation (gn)",
-   "company": "Workidentity",
-   "location": "Bremen",
+   "title": "Kundendiensttechniker / Monteur - Frankfurt am Main / Offenbach / Hanau (w/m/d)",
+   "company": "Kalo Vor Ort",
+   "location": "Region Frankfurt am Main / Offenbach / Hanau",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/workidentity/lead-data-ai-innovation-gn-bremen-5705",
+   "url": "https://www.arbeitnow.com/jobs/companies/kalo-vor-ort/kundendiensttechniker-monteur-frankfurt-am-main-offenbach-hanau-region-frankfurt-am-main-offenbach-hanau-298908",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Lead Product Engineer (a)",
-   "company": "Meondi",
-   "location": "Stuttgart",
+   "title": "Lead Compute Platform Engineer",
+   "company": "zetaglobal",
+   "location": "Berlin",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/meondi/lead-product-engineer-a-stuttgart-92065",
+   "url": "https://www.arbeitnow.com/jobs/companies/zetaglobal/lead-compute-platform-engineer-berlin-435366",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Lead Product Marketing Manager | Translator",
-   "company": "Deepl",
-   "location": "London",
+   "title": "Lead Engineer (UK)",
+   "company": "Bjak",
+   "location": "United Kingdom",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/lead-product-marketing-manager-translator-london-215371",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-uk-london-257386",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Lead Software Engineer (Hybrid)",
-   "company": "8Thlightrebuild",
-   "location": "London",
+   "title": "Lead Engineer - AI Payments App",
+   "company": "Bjak",
+   "location": "United Kingdom",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/lead-software-engineer-hybrid-london-451791",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-ai-payments-app-london-379785",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Lead Engineer - Stock Trading App",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-stock-trading-app-london-138304",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Lead Engineer - Travel FX App",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-travel-fx-app-london-2214",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Lead Engineer - Travel FX App",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-travel-fx-app-london-363425",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Lead Engineer - United Kingdom",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-united-kingdom-london-76041",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Lead Engineer - Wealth Management App",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-wealth-management-app-london-139303",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Lead Engineer - Wealth Management Apps",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-engineer-wealth-management-apps-london-35487",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Lead ML Engineer (m/f/x)",
+   "company": "Cofinity-X GmbH",
+   "location": "Köln",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/cofinity-x-gmbh/lead-ml-engineer-koln-438313",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Lead Product Designer",
+   "company": "Street Group",
+   "location": "Manchester",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/street-group/lead-product-designer-manchester-249301",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Lead Software Engineer - Paris",
+   "company": "Artefactlinkedin",
+   "location": "9th arrondissement of Paris, 75009, Paris",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-184574",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Lead Software Engineer - Paris",
+   "company": "Artefact",
+   "location": "9th arrondissement of Paris, 75009, Paris",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/artefact/lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-496789",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Lead Software Engineer - Paris",
@@ -1633,29 +1667,40 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/artefactjobs/lead-software-engineer-paris-9th-arrondissement-of-paris-75009-paris-358876",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Legal Assistant (m/w/d) - Werkstudent",
-   "company": "Bergmanclinics",
-   "location": "HoldCo Hamburg",
+   "title": "Legal AI Counsel (Berlin or Leipzig)",
+   "company": "Legartis",
+   "location": "Berlin",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/bergmanclinics/legal-assistant-werkstudent-holdco-hamburg-482370",
+   "url": "https://www.arbeitnow.com/jobs/companies/legartis/legal-ai-counsel-berlin-or-leipzig-415086",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Legal Counsel, Commercial",
-   "company": "Checkout.com",
+   "title": "Legal AI Engineer (Berlin or Leipzig)",
+   "company": "Legartis",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/legartis/legal-ai-engineer-berlin-or-leipzig-383972",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Live Streamer",
+   "company": "Tilt",
    "location": "London",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/legal-counsel-commercial-london-80077",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tilt/live-streamer-london-104885",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "MAÎTRE DE CONFÉRENCES dans le domaine du Génie Civil et de la microstructure des matériaux de construction H/F - CDI - IMT Mines Alès",
@@ -1666,18 +1711,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/maitre-de-conferences-dans-le-domaine-du-genie-civil-et-de-la-microstructure-des-materiaux-de-construction-h-f-cdi-imt-mines-ales-110573",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "ML Data Engineer (m/f/d) - Sensor Data & Pipelines",
-   "company": "autonomous-teaming",
-   "location": "Munich (DEU)",
-   "country": "Germany",
+   "title": "Maintenance Lead",
+   "company": "KP Snacks",
+   "location": "Billingham, England, United Kingdom",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/ml-data-engineer-sensor-data-pipelines-munich-deu-298521",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/kp-snacks/maintenance-lead-billingham-366351",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Major Account Executive, France",
@@ -1688,7 +1733,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-major-account-executive-france-271398",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Major Account Executive, UK Public Sector",
+   "company": "gitlab",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-major-account-executive-uk-public-sector-185493",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Manager - Data ScientistH/F",
@@ -1699,7 +1755,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/capco/manager-data-scientisth-f-90927",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Manager, Paid Search",
+   "company": "wppmedia",
+   "location": "London",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/manager-paid-search-london-190479",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Manufacturing Quality Engineer",
@@ -1710,51 +1777,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/gravis-robotics/manufacturing-quality-engineer-zurich-249758",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Market Lead DACH / Senior Account Executive",
-   "company": "Aquablu B.V",
-   "location": "Remote job",
-   "country": "Europe/Other",
-   "remote": true,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/aquablu-bv/remote-market-lead-dach-senior-account-executive-frankfurt-71387",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Marketing Artist- Blitz",
-   "company": "Voodoo",
-   "location": "Paris",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/marketing-artist-blitz-paris-473267",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Marketing Artist- Cortex",
-   "company": "Voodoo",
-   "location": "Paris",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/marketing-artist-cortex-paris-349116",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Master Trainer OpenAI (AI & Cloud Partners) (m/w/d), Munich",
+   "title": "Master Trainer OpenAI (AI & Cloud Partners) (H/F), Paris",
    "company": "Nonplusultra",
-   "location": "München",
-   "country": "Germany",
+   "location": "Paris (FR)",
+   "country": "France",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/nonplusultra/master-trainer-openai-ai-cloud-partners-munich-munchen-365883",
+   "url": "https://www.arbeitnow.fr/jobs/companies/nonplusultra/master-trainer-openai-ai-cloud-partners-h-f-paris-paris-fr-317198",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Mechanical Engineer - Design for Cost & Product Improvement",
@@ -1765,51 +1799,73 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/distalmotion/mechanical-engineer-design-for-cost-product-improvement-epalinges-175158",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Onboarding Manager, Cybersecurity/CTI (m/w/d)",
-   "company": "Maltego",
-   "location": "Munich Headquarters",
-   "country": "Germany",
+   "title": "Medizinische Fachangestellte (m/w/d) in modernem Hausarztzentrum - Frechen",
+   "company": "PraxisEins",
+   "location": "Frechen",
+   "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/maltego/onboarding-manager-cybersecurity-cti-munich-headquarters-362579",
+   "url": "https://www.arbeitnow.com/jobs/companies/praxiseins/medizinische-fachangestellte-in-modernem-hausarztzentrum-frechen-339157",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Operations Manager, Product & Engineering",
-   "company": "Sierra",
+   "title": "Mid-Market Account Executive, London",
+   "company": "Runway",
    "location": "London",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/sierra/operations-manager-product-engineering-london-256504",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/runway/mid-market-account-executive-london-279371",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Paid Media Manager | Lookfantastic",
-   "company": "Thehutgroup",
-   "location": "Manchester",
+   "title": "Operations Engineer",
+   "company": "Odin",
+   "location": "London",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/paid-media-manager-lookfantastic-manchester-232038",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/odin/operations-engineer-london-36081",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Partner Development Manager",
-   "company": "Cohere",
+   "title": "Operations Intern for AVD (Altersvorsorgedepot) (f/m/d)",
+   "company": "Upvest",
    "location": "Berlin",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/cohere/partner-development-manager-berlin-15899",
+   "url": "https://www.arbeitnow.com/jobs/companies/upvest/operations-intern-for-avd-altersvorsorgedepot-berlin-100306",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Optimization and Forecast Engineer - Energy Systems (f/m/d)",
+   "company": "FION Energy GmbH",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/fion-energy-gmbh/optimization-and-forecast-engineer-energy-systems-berlin-104629",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Outbound Sales · UK · Intern / Working Student",
+   "company": "Autarcenergy",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/outbound-sales-uk-intern-working-student-berlin-40052",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Perception and Fusion Engineer",
@@ -1820,18 +1876,29 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-perception-and-fusion-engineer-101328",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Pflegepädagog:in als Educational Engagement Representative bei Novaheal",
-   "company": "AMBOSS",
-   "location": "Remote - Germany",
+   "title": "Performance Analytics Manager",
+   "company": "Bjak",
+   "location": "United Kingdom",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/performance-analytics-manager-london-367097",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Platform & Reliability Engineer (all genders)",
+   "company": "Contabo",
+   "location": "Remote (Germany)",
    "country": "Germany",
    "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/amboss/remote-pflegepadagogin-als-educational-engagement-representative-bei-novaheal-344368",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-platform-reliability-engineer-all-genders-184827",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Post-doctorant·e en apprentissage décentralisé sûr, conficentiel et explicable - CDD 12 mois",
@@ -1842,7 +1909,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-en-apprentissage-decentralise-sur-conficentiel-et-explicable-cdd-12-mois-evry-428047",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Practice Lead Media Data Consulting & Solutions (m/w/d) Österreich & Schweiz",
@@ -1853,18 +1920,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/wppmedia/practice-lead-media-data-consulting-solutions-osterreich-schweiz-zurich-35367",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Principal Engineer - Autonomous Systems (m/f/d)",
-   "company": "autonomous-teaming",
-   "location": "Munich (DEU)",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/principal-engineer-autonomous-systems-munich-deu-434316",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Principal Engineer - Classical Cryptography & Architecture",
@@ -1875,40 +1931,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/ionq/principal-engineer-classical-cryptography-architecture-geneva-175045",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Principal Software Engineer (Hybrid)",
-   "company": "8Thlightrebuild",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
+   "title": "Product Designer (m/f/d)- Physical Products & AI - home decor brand - 100% remote - part-/fulltime",
+   "company": "Time to hire",
+   "location": "Marktbreit",
+   "country": "Europe/Other",
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/8thlightrebuild/principal-software-engineer-hybrid-london-269993",
+   "url": "https://www.arbeitnow.com/jobs/companies/time-to-hire/product-designer-physical-products-ai-home-decor-brand-100-remote-part-fulltime-marktbreit-415474",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Process Development Engineer – Semiconductor Packaging (m/f/d)",
-   "company": "Swissbit",
-   "location": "DE-Berlin",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/swissbit/process-development-engineer-semiconductor-packaging-de-berlin-242765",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Procurement Manager - FinOps",
-   "company": "Voodoo",
-   "location": "Paris",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/procurement-manager-finops-paris-180110",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Product Engineer",
@@ -1919,18 +1953,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/namespace/product-engineer-zurich-146931",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Product Line Manager Powertrain & Defense | Region Lausanne, Schweiz",
-   "company": "CONCAPE",
-   "location": "Ulm",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/concape/product-line-manager-powertrain-defense-region-lausanne-schweiz-ulm-250867",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Product Manager",
@@ -1941,7 +1964,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/ionq/product-manager-geneva-462921",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Product Manager (US Cards)",
+   "company": "Lendable",
+   "location": "London",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/product-manager-us-cards-london-423163",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Product Manager Grower Experience (m/w/d)",
@@ -1952,7 +1986,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/bridgemaker-gmbh/product-manager-grower-experience-hybrid-415526",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Product Manager Intern - Connect",
@@ -1963,7 +1997,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-intern-connect-paris-21050",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Product Manager Intern - Platform",
@@ -1974,18 +2008,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/product-manager-intern-platform-paris-68428",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Product Manager, Finance Engineering",
-   "company": "Deliveroo",
-   "location": "London",
-   "country": "UK",
+   "title": "Product Manager, Healthcare (H/F)",
+   "company": "Withings",
+   "location": "Issy-les-Moulineaux, France",
+   "country": "France",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/product-manager-finance-engineering-london-198670",
+   "url": "https://www.arbeitnow.fr/jobs/companies/withings/product-manager-healthcare-h-f-issy-les-moulineaux-335042",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Product Marketing Intern",
@@ -1996,62 +2030,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/mirakl/product-marketing-intern-paris-411507",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Production Test Engineer (m/f/d)",
-   "company": "Swissbit",
-   "location": "DE-Berlin",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/swissbit/production-test-engineer-de-berlin-40043",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Produktionsmitarbeiter Cube & Unterverteilung (m/w/d)",
-   "company": "GALVANY",
-   "location": "Blankenfelde-Mahlow",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/galvany/produktionsmitarbeiter-cube-unterverteilung-blankenfelde-mahlow-124870",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Project Manager or Project Officer Biomass Value Chains (f/m/d)",
-   "company": "Agora Thinktanks",
+   "title": "Quality Assurance Rater - German (Germany)",
+   "company": "TELUS Digital",
    "location": "Berlin",
    "country": "Germany",
-   "remote": false,
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/agora-thinktanks/project-manager-or-project-officer-biomass-value-chains-berlin-462809",
+   "url": "https://www.arbeitnow.com/jobs/companies/telus-digital/quality-assurance-rater-german-germany-berlin-112725",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Realtime Analytics and Controls Developer",
-   "company": "Xtxmarketstechnologies",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/xtxmarketstechnologies/realtime-analytics-and-controls-developer-london-149694",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Regional VP, Sales",
-   "company": "Sierra",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/sierra/regional-vp-sales-london-365350",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Remote Office Assistant",
@@ -2063,7 +2053,7 @@
    "salary": "$35,3k- $52k",
    "url": "https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495",
    "source": "Remotive",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Research Scientist, Foundation Model (World Model & Site Memory)",
@@ -2074,84 +2064,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/research-scientist-foundation-model-world-model-site-memory-zurich-251034",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Retail Promoter (m/w/d) – Werkstudent / Teilzeit, 16 Std./Woche (ab Januar)",
-   "company": "Nonplusultra",
-   "location": "Berlin",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/nonplusultra/retail-promoter-werkstudent-teilzeit-16-std-woche-ab-januar-berlin-3540",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Retail Promoter (m/w/d) – Werkstudent / Teilzeit, 16 Std./Woche (ab Januar)",
-   "company": "Nonplusultra",
-   "location": "Frankfurt",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/nonplusultra/retail-promoter-werkstudent-teilzeit-16-std-woche-ab-januar-frankfurt-22436",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Retail Promoter (m/w/d) – Werkstudent / Teilzeit, 16 Std./Woche (ab Januar)",
-   "company": "Nonplusultra",
-   "location": "Stuttgart",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/nonplusultra/retail-promoter-werkstudent-teilzeit-16-std-woche-ab-januar-stuttgart-333382",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Retail Promoter (m/w/d) – Werkstudent / Teilzeit, 16 Std./Woche (ab Januar)",
-   "company": "Nonplusultra",
-   "location": "Freiburg",
+   "title": "SAP Industry Solution Advisor (m/w/d)",
+   "company": "Gambit",
+   "location": "Schweiz",
    "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/nonplusultra/retail-promoter-werkstudent-teilzeit-16-std-woche-ab-januar-freiburg-119830",
+   "url": "https://www.arbeitnow.ch/jobs/companies/gambit/sap-industry-solution-advisor-schweiz-79605",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Runner - Soho Farmhouse  (Main Barn)",
-   "company": "Sohohouseco",
-   "location": "Soho Farmhouse - Chipping Norton",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/runner-soho-farmhouse-main-barn-soho-farmhouse-chipping-norton-98256",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Sales & Go-to-Market Manager – Pipeline & Growth",
-   "company": "Brighter Ai",
-   "location": "Berlin",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/brighter-ai/remote-sales-go-to-market-manager-pipeline-growth-berlin-331442",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Sales Account Executive - Cybersecurity",
-   "company": "Crowdsec",
-   "location": "Remote job",
-   "country": "Europe/Other",
-   "remote": true,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-362742",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Manager Kliniksoftware Schweiz (80–100 %)",
@@ -2162,7 +2086,40 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/meierhofer/sales-manager-kliniksoftware-schweiz-80-100-liebefeld-383206",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Sales Manager, EMEA",
+   "company": "Metaview",
+   "location": "London",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/metaview/sales-manager-emea-london-177140",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Sales Operations Analyst",
+   "company": "Metaview",
+   "location": "London",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/metaview/sales-operations-analyst-london-395746",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Sales Operations Manager - Memory Solutions (m/w/d)",
+   "company": "Swissbit",
+   "location": "CH-Bronschhofen",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.ch/jobs/companies/swissbit/sales-operations-manager-memory-solutions-ch-bronschhofen-254009",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) - Glarus",
@@ -2173,7 +2130,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-glarus-150555",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) - Graubünden",
@@ -2184,7 +2141,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-graubunden-225963",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) - Schaffhausen",
@@ -2195,7 +2152,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-schaffhausen-258886",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) - Solothurn",
@@ -2206,7 +2163,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-solothurn-42497",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) - St. Gallen",
@@ -2217,7 +2174,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-st-gallen-399973",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) - Thurgau",
@@ -2228,7 +2185,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-thurgau-368944",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) - Uri",
@@ -2239,7 +2196,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-uri-171246",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) Quereinstieg - Basel",
@@ -2250,7 +2207,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-quereinstieg-basel-405916",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) Quereinstieg - Glarus",
@@ -2261,7 +2218,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-quereinstieg-glarus-95775",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) Quereinstieg - Graubünden",
@@ -2272,7 +2229,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-quereinstieg-graubunden-486581",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) Quereinstieg - Schaffhausen",
@@ -2283,7 +2240,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-quereinstieg-schaffhausen-182927",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) Quereinstieg - Solothurn",
@@ -2294,7 +2251,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-quereinstieg-solothurn-230500",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) Quereinstieg - St. Gallen",
@@ -2305,7 +2262,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-quereinstieg-st-gallen-93424",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) Quereinstieg - Thurgau",
@@ -2316,7 +2273,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-quereinstieg-thurgau-387031",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Sales Representative (m/w/d) Quereinstieg - Uri",
@@ -2327,40 +2284,40 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/salonkee/sales-representative-quereinstieg-uri-8761",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Salesforce Solution Architect",
-   "company": "Triplepointllp",
-   "location": "London",
-   "country": "UK",
+   "title": "Scientific Assistant to Vice Presidium International Affairs & University Development (m, f, d)- 30 hours",
+   "company": "Global University Systems GmbH",
+   "location": "Berlin",
+   "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/triplepointllp/salesforce-solution-architect-london-221743",
+   "url": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/scientific-assistant-to-vice-presidium-international-affairs-university-development-m-f-d-30-hours-berlin-419927",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Security Engineer (Hybrid or Remote)",
+   "company": "Vivid",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/vivid/security-engineer-hybrid-or-remote-470182",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Select Major Account Executive, UK&I",
    "company": "Samsara",
-   "location": "London, England, United Kingdom",
-   "country": "UK",
+   "location": "",
+   "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/select-major-account-executive-uki-london-496630",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/samsara/select-major-account-executive-uki-488169",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Semiconductor Packaging Engineer / Process Engineer Advanced Packaging (m/f/d)",
-   "company": "Swissbit",
-   "location": "DE-Berlin",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/swissbit/semiconductor-packaging-engineer-process-engineer-advanced-packaging-de-berlin-103613",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Senior .NET Full-stack Developer",
@@ -2372,7 +2329,7 @@
    "salary": "",
    "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
    "source": "Remotive",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Senior AI Engineer",
@@ -2384,51 +2341,95 @@
    "salary": "",
    "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
    "source": "Remotive",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior AI Platform Engineer - Data Factory (f/m/d)",
-   "company": "Decathlontechnology",
-   "location": "Paris, Paris; Villeneuve-d'Ascq, Nord",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-ai-platform-engineer-data-factory-paris-paris-villeneuve-dascq-nord-330115",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Account Manager (m/w/d)",
-   "company": "Schoene Neue Kinder",
-   "location": "München Giesing",
+   "title": "Senior AI Platform & Research Infrastructure Engineer (m/f/d)",
+   "company": "Lrz",
+   "location": "Garching bei München",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/schoene-neue-kinder/senior-account-manager-munchen-giesing-36943",
+   "url": "https://www.arbeitnow.com/jobs/companies/lrz/senior-ai-platform-research-infrastructure-engineer-garching-bei-munchen-411668",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Audit Consultant / Prüfungsleiter (m/w/d)",
-   "company": "Asg",
-   "location": "Hamburg",
-   "country": "Germany",
+   "title": "Senior Account Executive",
+   "company": "Avepoint",
+   "location": "London",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/asg/senior-audit-consultant-prufungsleiter-hamburg-348739",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/senior-account-executive-london-411512",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Automation & OT Engineer e/v/e/r/y/o/n/e",
-   "company": "ten23 health AG",
-   "location": "Visp",
+   "title": "Senior Account Executive",
+   "company": "gitlab",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.ch/jobs/companies/gitlab/remote-senior-account-executive-166089",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Account Executive, Enterprise (Private Accounts)",
+   "company": "veeamsoftware",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-account-executive-enterprise-private-accounts-136191",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Account Manager - New Business",
+   "company": "Ambrosys",
+   "location": "Potsdam (hybrid)",
    "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.ch/jobs/companies/ten23-health-ag/senior-automation-ot-engineer-n-e-visp-395941",
+   "url": "https://www.arbeitnow.com/jobs/companies/ambrosys/senior-account-manager-new-business-potsdam-hybrid-65050",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Analytics Engineer",
+   "company": "Paddle",
+   "location": "UK",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/senior-analytics-engineer-uk-16423",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Applied AI Solution Engineer",
+   "company": "celonis",
+   "location": "Munich",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-applied-ai-solution-engineer-munich-142872",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Associate, Search",
+   "company": "wppmedia",
+   "location": "Manchester",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/wppmedia/senior-associate-search-manchester-261083",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Business Development Manager - Dissemination & Distribution",
@@ -2439,40 +2440,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/fe-fundinfo/senior-business-development-manager-dissemination-distribution-zurich-222918",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Business Operations Manager (m/w/d)",
-   "company": "LANCH",
-   "location": "Berlin",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/lanch/senior-business-operations-manager-berlin-130218",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Cloud Architect (gn)",
-   "company": "Workidentity",
-   "location": "Hamburg",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/workidentity/senior-cloud-architect-gn-hamburg-438382",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Cloud Engineer (gn)",
-   "company": "Workidentity",
-   "location": "Hamburg",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/workidentity/senior-cloud-engineer-gn-hamburg-108299",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Cloud Operations Engineer (all genders) CH",
@@ -2483,73 +2451,62 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-329699",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Cloud Security Engineer - AI Resilience & Security Enhancements (Fixed-term contract)",
-   "company": "Form3",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
+   "title": "Senior Cloud Product Manager (all genders)",
+   "company": "Contabo",
+   "location": "Remote (Germany)",
+   "country": "Germany",
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-cloud-security-engineer-ai-resilience-security-enhancements-fixed-term-contract-206644",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-cloud-product-manager-all-genders-486432",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Computational Geometry Engineer",
-   "company": "Saeki",
-   "location": "Zurich",
-   "country": "Switzerland",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.ch/jobs/companies/saeki/senior-computational-geometry-engineer-zurich-97918",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Consultant (m/w/d)",
-   "company": "European IT Consultancy EITCO GmbH",
-   "location": "Bonn",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/european-it-consultancy-eitco-gmbh/senior-consultant-bonn-150049",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Consultant Real World Evidence - Focus on Healthcare Data Analysis (m/f/d)",
-   "company": "Iges Institut Gmbh",
-   "location": "Berlin",
+   "title": "Senior Concept & Strategy (Mensch)",
+   "company": "wppmedia",
+   "location": "Dusseldorf",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/iges-institut-gmbh/senior-consultant-real-world-evidence-focus-on-healthcare-data-analysis-berlin-232414",
+   "url": "https://www.arbeitnow.com/jobs/companies/wppmedia/senior-concept-strategy-mensch-dusseldorf-488545",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Consultant/Manager, AI/ML Engineer",
-   "company": "Baringa",
-   "location": "London",
-   "country": "UK",
+   "title": "Senior Controller / FP&A Manager (m/w/d)",
+   "company": "Thermengruppe Josef Wund",
+   "location": "München",
+   "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/baringa/senior-consultant-manager-ai-ml-engineer-london-158112",
+   "url": "https://www.arbeitnow.com/jobs/companies/thermengruppe-josef-wund/senior-controller-fpa-manager-munchen-203243",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Content Designer",
-   "company": "Checkout.com",
-   "location": "London",
-   "country": "UK",
+   "title": "Senior Corporate Development Manager (m/w/d)",
+   "company": "Thermondo",
+   "location": "Berlin (Zentrale)",
+   "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-content-designer-london-287136",
+   "url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-corporate-development-manager-berlin-zentrale-426823",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Creative Strategist (all genders)",
+   "company": "WeCreate Germany",
+   "location": "Hybrid",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/wecreate-germany/senior-creative-strategist-all-genders-hybrid-254635",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Cryptography Engineer",
@@ -2560,40 +2517,40 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/ionq/senior-cryptography-engineer-geneva-295248",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Customer Marketer",
-   "company": "Alan",
-   "location": "Anywhere in France",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/alan/senior-customer-marketer-anywhere-in-france-303830",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Customer Success Manager - Operations",
-   "company": "Thgingenuity",
-   "location": "Manchester",
+   "title": "Senior Customer Success Manager",
+   "company": "Yext",
+   "location": "London",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/thgingenuity/senior-customer-success-manager-operations-manchester-61933",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/yext/senior-customer-success-manager-london-173112",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Data Analyst Backend E-commerce (f/m/d)",
-   "company": "Decathlontechnology",
-   "location": "Lille, Upline, Nord",
+   "title": "Senior Customer Success Manager - Germany",
+   "company": "chainguard",
+   "location": "",
    "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-data-analyst-backend-e-commerce-lille-upline-nord-192688",
+   "url": "https://www.arbeitnow.com/jobs/companies/chainguard/senior-customer-success-manager-germany-183920",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Data Analyst  (Marketing Analytics)",
+   "company": "Montu Uk",
+   "location": "London",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/montu-uk/senior-data-analyst-marketing-analytics-london-228125",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Data Scientist",
@@ -2605,95 +2562,95 @@
    "salary": "",
    "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
    "source": "Remotive",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Data Scientist ( Economist) - Supply",
-   "company": "Backmarket",
-   "location": "Paris",
-   "country": "France",
-   "remote": false,
+   "title": "Senior DevOps Engineer (m/f/d)",
+   "company": "Auxmoney Gmbh",
+   "location": "Remote / Düsseldorf",
+   "country": "Germany",
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/backmarket/senior-data-scientist-economist-supply-paris-34186",
+   "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-devops-engineer-89471",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Data Scientist (Economist)",
-   "company": "Deliveroo",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-data-scientist-economist-london-99067",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Digital Marketing Manager SEO/GEO (all genders)",
-   "company": "Denkwerk Gmbh",
+   "title": "Senior Director Software Engineering (f/m/d)",
+   "company": "Holoplot",
    "location": "Berlin",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/denkwerk-gmbh/senior-digital-marketing-manager-seo-geo-all-genders-berlin-456916",
+   "url": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-director-software-engineering-berlin-19725",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Financial Crime Operations Specialist (AFC) (f/m/x)",
-   "company": "Lemon Markets",
-   "location": "Germany  (Hybrid)",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-financial-crime-operations-specialist-afc-berlin-315892",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Full Stack Engineer | AI & Security",
-   "company": "Escape",
-   "location": "Paris Office",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/escape/senior-full-stack-engineer-ai-security-paris-308967",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Global Manager, Enterprise Ads & Promos",
-   "company": "Deliveroo",
-   "location": "London",
+   "title": "Senior Director, People & Culture",
+   "company": "Catapult Sports",
+   "location": "London, England, United Kingdom",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-global-manager-enterprise-ads-promos-london-452435",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/catapult-sports/senior-director-people-culture-london-1085",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Go Backend Developer (f/m/d)",
-   "company": "adjoe",
-   "location": "Hamburg",
+   "title": "Senior Frontend Developer (all genders)",
+   "company": "Contabo",
+   "location": "Remote (Germany)",
+   "country": "Germany",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-frontend-developer-all-genders-372910",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Frontend Engineer (Vue), Create:  Repository Management",
+   "company": "gitlab",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-frontend-engineer-vue-create-repository-management-62771",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Full Stack Engineer (f/m/x)",
+   "company": "LiveEO GmbH",
+   "location": "LiveEO GmbH Berlin Office (Hybrid)",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-go-backend-developer-hamburg-347531",
+   "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-239663",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior IT Security Administrator (gn)",
-   "company": "Workidentity",
-   "location": "Hamburg",
+   "title": "Senior Full-Stack Engineer (f/m/x)",
+   "company": "LiveEO GmbH",
+   "location": "LiveEO GmbH Berlin Office (Hybrid)",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/workidentity/senior-it-security-administrator-gn-hamburg-23456",
+   "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-full-stack-engineer-liveeo-gmbh-berlin-office-hybrid-304401",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior HR Project Manager",
+   "company": "Leovegasgroup",
+   "location": "Leeds, UK",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-hr-project-manager-leeds-219897",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Independent AI Engineer / Architect",
@@ -2705,7 +2662,7 @@
    "salary": "$120 - $170 /hour",
    "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
    "source": "Remotive",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Independent Software Developer",
@@ -2717,40 +2674,40 @@
    "salary": "$90 - $150 /hour",
    "url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
    "source": "Remotive",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior ML Ops (x/f/m)",
-   "company": "Doctolib",
-   "location": "Paris, Paris",
-   "country": "France",
+   "title": "Senior Manager - Portfolio Analytics",
+   "company": "Leovegasgroup",
+   "location": "Newcastle Upon Tyne, UK",
+   "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/doctolib/senior-ml-ops-paris-paris-210571",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-manager-portfolio-analytics-newcastle-upon-tyne-463718",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Marketing Consultant – Schwerpunkt SEO (all genders)",
-   "company": "SYZYGY GROUP",
-   "location": "Hamburg - SYZYGY Performance Marketing GmbH",
+   "title": "Senior Manager - Portfolio Analytics",
+   "company": "Leovegasgroup",
+   "location": "Leeds, UK",
+   "country": "UK",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-manager-portfolio-analytics-leeds-409222",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Manager Technical Operations (Bauleiter) - Remote (m/w/d)",
+   "company": "Thermondo",
+   "location": "Berlin (Zentrale)",
    "country": "Germany",
-   "remote": false,
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/syzygy-group/senior-marketing-consultant-schwerpunkt-seo-all-genders-hamburg-syzygy-performance-marketing-gmbh-210776",
+   "url": "https://www.arbeitnow.com/jobs/companies/thermondo/senior-manager-technical-operations-bauleiter-remote-berlin-zentrale-272571",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Marketing Manager (m/f/d)",
-   "company": "Blueocean Technologies Gmbh",
-   "location": "Berlin",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/blueocean-technologies-gmbh/senior-marketing-manager-berlin-416985",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Mechanical Engineer",
@@ -2761,51 +2718,51 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/ionq/senior-mechanical-engineer-geneva-199679",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Optical Fibre Engineer",
-   "company": "Psiquantum",
-   "location": "Daresbury",
-   "country": "Europe/Other",
-   "remote": false,
+   "title": "Senior Network Engineer (all genders)",
+   "company": "Contabo",
+   "location": "Remote (Germany)",
+   "country": "Germany",
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/psiquantum/senior-optical-fibre-engineer-daresbury-134349",
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-network-engineer-all-genders-22839",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Optronics Systems Engineer | Vollzeit | Standort: Rheintal, Schweiz",
-   "company": "CONCAPE",
-   "location": "Aalen",
-   "country": "Europe/Other",
-   "remote": false,
+   "title": "Senior People Operations & Payroll Manager (f/m/x)",
+   "company": "IONITY GmbH",
+   "location": "Remote Work Germany",
+   "country": "Germany",
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/concape/senior-optronics-systems-engineer-vollzeit-standort-rheintal-schweiz-aalen-221509",
+   "url": "https://www.arbeitnow.com/jobs/companies/ionity-gmbh/remote-senior-people-operations-payroll-manager-368847",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Paid Media Manager (all genders)",
-   "company": "Denkwerk Gmbh",
-   "location": "Berlin",
+   "title": "Senior Platform Engineer AI & Observability (m/f/d)",
+   "company": "Lrz",
+   "location": "Garching bei München",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/denkwerk-gmbh/senior-paid-media-manager-all-genders-berlin-354408",
+   "url": "https://www.arbeitnow.com/jobs/companies/lrz/senior-platform-engineer-ai-observability-garching-bei-munchen-155454",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Photonics Engineer, Optical Interfaces",
-   "company": "Psiquantum",
-   "location": "Daresbury",
+   "title": "Senior Privacy Engineer",
+   "company": "Duck Duck Go",
+   "location": "Remote",
    "country": "Europe/Other",
-   "remote": false,
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/psiquantum/senior-photonics-engineer-optical-interfaces-daresbury-155563",
+   "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-366025",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Privacy Engineer",
@@ -2816,73 +2773,62 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-privacy-engineer-111342",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Product Data Scientist",
-   "company": "Deliveroo",
-   "location": "London",
+   "title": "Senior Product Designer",
+   "company": "Paddle",
+   "location": "UK",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-data-scientist-london-166515",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/paddle/senior-product-designer-uk-149103",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Product Manager - Carpool Experience",
-   "company": "Blablacar",
-   "location": "Paris, France",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/blablacar/senior-product-manager-carpool-experience-paris-france-14229",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Product Manager - Client Communication",
-   "company": "Qonto",
-   "location": "Paris",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/qonto/senior-product-manager-client-communication-paris-264337",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Product Manager | Capital Management (f/m/d)",
-   "company": "bunch",
-   "location": "Berlin",
+   "title": "Senior Product Manager (ISR) Defence & Intelligence (f/m/x)",
+   "company": "LiveEO GmbH",
+   "location": "LiveEO GmbH Berlin Office (Hybrid)",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/bunch/senior-product-manager-capital-management-berlin-265061",
+   "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-product-manager-isr-defence-intelligence-liveeo-gmbh-berlin-office-hybrid-376706",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Product Manager, Software",
-   "company": "Riverlane",
-   "location": "Cambridge",
-   "country": "UK",
+   "title": "Senior Product Marketing Manager",
+   "company": "SoSafe",
+   "location": "Cologne",
+   "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/riverlane/senior-product-manager-software-cambridge-121982",
+   "url": "https://www.arbeitnow.com/jobs/companies/sosafe/senior-product-marketing-manager-cologne-105431",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Project Manager (m/w/d)",
-   "company": "epilot GmbH",
-   "location": "Remote job",
-   "country": "Europe/Other",
-   "remote": true,
+   "title": "Senior Product Marketing Specialist",
+   "company": "okta",
+   "location": "Munich",
+   "country": "Germany",
+   "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/remote-senior-project-manager-koln-495722",
+   "url": "https://www.arbeitnow.com/jobs/companies/okta/senior-product-marketing-specialist-munich-113759",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Project Manager (m/f/d)",
+   "company": "Arethia",
+   "location": "Hybrid",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/arethia/senior-project-manager-hybrid-223640",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Senior R&D Scientist",
@@ -2893,51 +2839,41 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/ionq/senior-rd-scientist-geneva-140003",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Recruiting Coordinator",
-   "company": "CesiumAstro",
-   "location": "Milton Keynes, United Kingdom",
-   "country": "UK",
-   "remote": false,
+   "title": "Senior React Full-stack Developer",
+   "company": "Lemon.io",
+   "location": "Europe, USA, Canada, APAC",
+   "country": "Remote",
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cesiumastro/senior-recruiting-coordinator-milton-keynes-united-kingdom-183898",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "salary": "",
+   "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
+   "source": "Remotive",
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Revenue Accountant",
-   "company": "Deepl",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-revenue-accountant-london-223127",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Risk Management Specialist (f/m/x)",
-   "company": "Lemon Markets",
-   "location": "Berlin (Hybrid)",
+   "title": "Senior SEO & GEO Manager (m/w/d)",
+   "company": "Auxmoney Gmbh",
+   "location": "Remote / Düsseldorf",
    "country": "Germany",
-   "remote": false,
+   "remote": true,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/senior-risk-management-specialist-berlin-310993",
+   "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-seo-geo-manager-257000",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Sales & Go-to-Market Lead",
-   "company": "Brighter Ai",
+   "title": "Senior Sales Development Representative",
+   "company": "Autarcenergy",
    "location": "Berlin",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/brighter-ai/senior-sales-go-to-market-lead-berlin-71147",
+   "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/senior-sales-development-representative-berlin-220432",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Sales Development Representative, with French (Strategic Accounts) (Bucharest-based position, relocation package possible)",
@@ -2948,29 +2884,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/senior-sales-development-representative-with-french-strategic-accounts-bucharest-based-position-relocation-package-possible-paris-220158",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Salesforce Administrator (RevTech)",
-   "company": "Everway",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/everway/senior-salesforce-administrator-revtech-39160",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Scaled Enablement Manager (m/w/d)",
-   "company": "Maltego",
-   "location": "Munich Headquarters",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/maltego/senior-scaled-enablement-manager-munich-headquarters-323026",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Shopify Developer",
@@ -2982,29 +2896,62 @@
    "salary": "$80k - $150k",
    "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
    "source": "Remotive",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Software Engineer",
-   "company": "Chaosindustries",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/chaosindustries/senior-software-engineer-london-96709",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Software Engineer (m/w/d) – Backend & Data Infrastructure",
-   "company": "autonomous-teaming",
-   "location": "Munich (DEU)",
+   "title": "Senior Social Media Grafiker:in (gn)",
+   "company": "Intermate Media GmbH",
+   "location": "Berlin, Berlin, Deutschland",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/autonomous-teaming/senior-software-engineer-backend-data-infrastructure-munich-deu-341139",
+   "url": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-social-media-grafikerin-gn-berlin-132523",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Social Media Manager (m/w/d) (m/w/d)",
+   "company": "RealStudio GmbH",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/realstudio-gmbh/senior-social-media-manager-berlin-41716",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Software Developer – Platform & Infrastructure Engineering (all genders)",
+   "company": "Contabo",
+   "location": "Remote (Germany)",
+   "country": "Germany",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/contabo/remote-senior-software-developer-platform-infrastructure-engineering-all-genders-142731",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Software Engineer  - Distributed Systems (Applied AI)",
+   "company": "Datadog",
+   "location": "Bordeaux; Grenoble; Lyon; Montpellier; Nantes; Nice; Paris; Sophia Antipolis",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-distributed-systems-applied-ai-bordeaux-grenoble-lyon-montpellier-nantes-nice-paris-sophia-antipolis-22228",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Software Engineer - Autonomous Ops & Maintenance (ATOM)",
+   "company": "Datadog",
+   "location": "Paris",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-autonomous-ops-maintenance-atom-paris-246497",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Software Engineer - Paris",
@@ -3015,29 +2962,73 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/hcompany/senior-software-engineer-paris-346059",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Senior Software Engineer, Full-Stack - New Verticals",
-   "company": "Deliveroo",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-software-engineer-full-stack-new-verticals-london-396688",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior Venture Lead (Berlin)",
-   "company": "Almedia",
+   "title": "Senior Software Engineer - Platform & Infrastructure (f/m/d)",
+   "company": "Holoplot",
    "location": "Berlin",
    "country": "Germany",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/almedia/senior-venture-lead-berlin-156473",
+   "url": "https://www.arbeitnow.com/jobs/companies/holoplot/senior-software-engineer-platform-infrastructure-berlin-180628",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Software Engineer – IT Risk & Pricing (m/f/d)",
+   "company": "Auxmoney Gmbh",
+   "location": "Remote / Düsseldorf",
+   "country": "Germany",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/auxmoney-gmbh/remote-senior-software-engineer-it-risk-pricing-494487",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Systems Engineer (Pre-Sales), Public Sector: Defence and Defence Industrial Base (UK&I)",
+   "company": "purestorage",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-senior-systems-engineer-pre-sales-public-sector-defence-and-defence-industrial-base-uki-403474",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior WEG-Verwalter:in (m/w/d) | 100 % Remote oder Hamburg",
+   "company": "Ralph Management GmbH",
+   "location": "Homeoffice",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/ralph-management-gmbh/senior-weg-verwalterin-100-remote-oder-hamburg-hamburg-office-433811",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Web Compatibility Engineer",
+   "company": "Duck Duck Go",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-192216",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Senior Web Compatibility Engineer",
+   "company": "Duck Duck Go",
+   "location": "Remote",
+   "country": "Europe/Other",
+   "remote": true,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-341573",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Senior Web Compatibility Engineer",
@@ -3048,7 +3039,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/duck-duck-go/remote-senior-web-compatibility-engineer-379161",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Senior back-end Engineer",
@@ -3060,18 +3051,7 @@
    "salary": "",
    "url": "https://remotive.com/remote-jobs/software-development/senior-back-end-engineer-2091132",
    "source": "Remotive",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior iOS Engineer",
-   "company": "Voodoo",
-   "location": "Paris",
-   "country": "France",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/senior-ios-engineer-paris-14438",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Senior iOS Engineer (KMP) - POS",
@@ -3082,18 +3062,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/sumup/senior-ios-engineer-kmp-pos-paris-paris-283595",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Senior/Staff ML Scientist - Bidding & Optimization (f/m/d)",
-   "company": "adjoe",
-   "location": "Berlin",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/adjoe/senior-staff-ml-scientist-bidding-optimization-berlin-180256",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Software / Integration Engineer (Agentic Systems) - Paris based",
@@ -3104,40 +3073,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.fr/jobs/companies/shifttechnology/software-integration-engineer-agentic-systems-paris-based-18687",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Software Architect (m/f/d) für Web-, Backend- und Plattformlösungen",
-   "company": "Swissbit",
-   "location": "DE-München",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/swissbit/software-architect-fur-web-backend-und-plattformlosungen-de-munchen-224789",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Software Engineer - OneCheckout (f/m/d)",
-   "company": "Decathlontechnology",
-   "location": "Lille, Upline, Nord",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/software-engineer-onecheckout-lille-upline-nord-342498",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Software Engineer II, Full-Stack - New Verticals",
-   "company": "Deliveroo",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-full-stack-new-verticals-london-88126",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Software Engineer Intern - Industrialization",
@@ -3148,7 +3084,29 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/anybotics/software-engineer-intern-industrialization-zurich-70030",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
+   "company": "Wattfox",
+   "location": "Freiburg",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-freiburg-76484",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Software Engineer – Internal Tools & Automation (m/w/d)",
+   "company": "Wattfox",
+   "location": "Home Office Deutschland",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/wattfox/software-engineer-internal-tools-automation-home-office-deutschland-162870",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   },
   {
    "title": "Software Engineer, Command Centre (Frontend & UI/UX)",
@@ -3159,7 +3117,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-command-centre-frontend-ui-ux-zurich-339034",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Software Engineer, Robot Autonomy (Reliability & Test Infrastructure)",
@@ -3170,7 +3128,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-robot-autonomy-reliability-test-infrastructure-zurich-362461",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Software Engineer, Simulation (Digital Twins)",
@@ -3181,51 +3139,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-simulation-digital-twins-zurich-198101",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Software Engineering Director",
-   "company": "Fanduel",
-   "location": "Edinburgh",
+   "title": "Software Engineering Intern (2027 Start) - London",
+   "company": "databricks",
+   "location": "London",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineering-director-edinburgh-149030",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/databricks/software-engineering-intern-2027-start-london-297332",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Software Engineering Internship (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/software-engineering-internship-2027-start-35908",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Software Test Engineering Internship (2027 start)",
-   "company": "Cambridgeconsultantslimited",
-   "location": "",
-   "country": "Europe/Other",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cambridgeconsultantslimited/software-test-engineering-internship-2027-start-386092",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Softwaretester (m/w/d) – Healthcare SaaS",
-   "company": "DMRZ",
-   "location": "Düsseldorf",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/dmrz/softwaretester-healthcare-saas-dusseldorf-236308",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Solution Engineer 100% (a)",
@@ -3236,51 +3161,18 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/brandleadership/solution-engineer-100-a-steinhausen-153065",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Solution Unit Lead - AI & Data",
-   "company": "isolutions",
-   "location": "Zürich",
-   "country": "Switzerland",
+   "title": "Sponsorship Sales Executive (Strategic Engagement & Partnerships)",
+   "company": "Pmmalliance",
+   "location": "Hybrid",
+   "country": "Europe/Other",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.ch/jobs/companies/isolutions/solution-unit-lead-ai-data-zurich-26795",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/sponsorship-sales-executive-strategic-engagement-partnerships-london-445851",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Solutions Architect - DACH",
-   "company": "Cohere",
-   "location": "Germany",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/cohere/solutions-architect-dach-germany-342546",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Solutions Architect, Defence, DACH",
-   "company": "Cohere",
-   "location": "Germany",
-   "country": "Germany",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.com/jobs/companies/cohere/solutions-architect-defence-dach-germany-111826",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
-  },
-  {
-   "title": "Specialist, Regional Events and Field Marketing",
-   "company": "Checkout.com",
-   "location": "London",
-   "country": "UK",
-   "remote": false,
-   "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/specialist-regional-events-and-field-marketing-london-437489",
-   "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Staff Cryptography Engineer",
@@ -3291,7 +3183,7 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/ionq/staff-cryptography-engineer-geneva-70491",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
    "title": "Staff DevSecOps Engineer",
@@ -3302,18 +3194,128 @@
    "visa": false,
    "url": "https://www.arbeitnow.ch/jobs/companies/ionq/staff-devsecops-engineer-geneva-182974",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
   },
   {
-   "title": "Staff Product Designer",
-   "company": "Checkout.com",
-   "location": "London",
+   "title": "Staff Machine Learning Engineer",
+   "company": "Bjak",
+   "location": "United Kingdom",
    "country": "UK",
    "remote": false,
    "visa": false,
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/staff-product-designer-london-311553",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/staff-machine-learning-engineer-london-159647",
    "source": "Arbeitnow",
-   "date": "2026-10-04"
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Staff System Architect -SNSPD Systems",
+   "company": "ionq",
+   "location": "Geneva",
+   "country": "Switzerland",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.ch/jobs/companies/ionq/staff-system-architect-snspd-systems-geneva-477414",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Stage – Purchasing Support",
+   "company": "Boggi Milano",
+   "location": "Mendrisio, Ticino, Switzerland",
+   "country": "Switzerland",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.ch/jobs/companies/boggi-milano/stage-purchasing-support-mendrisio-474002",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Sterling Account Executive",
+   "company": "TransPerfect",
+   "location": "Paris, Île-de-France, France",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/sterling-account-executive-paris-420938",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Sterling Account Executive",
+   "company": "TransPerfect",
+   "location": "Paris, Île-de-France, France",
+   "country": "France",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/transperfect/sterling-account-executive-paris-196626",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Supply Chain Tech - Center of Excellence",
+   "company": "Cognite",
+   "location": "",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.fr/jobs/companies/cognite/supply-chain-tech-center-of-excellence-121822",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "System Software Engineer (gn) Cloud & Simulation",
+   "company": "Wandelbots GmbH",
+   "location": "Dresden",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/wandelbots-gmbh/system-software-engineer-gn-cloud-simulation-dresden-13470",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Systemadministratorin (m/w/d) Administration und Weiterentwicklung von Enterprise Wiki-Lösungen",
+   "company": "Lrz",
+   "location": "Garching bei München",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/lrz/systemadministratorin-administration-und-weiterentwicklung-von-enterprise-wiki-losungen-garching-bei-munchen-450741",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Talent Acquisition Specialist",
+   "company": "Avepoint",
+   "location": "Sydney, Australia",
+   "country": "Europe/Other",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/talent-acquisition-specialist-sydney-australia-495079",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Team Lead AI Process Automation (m/f/d)",
+   "company": "DocuWare",
+   "location": "Germering / Germany",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/docuware/team-lead-ai-process-automation-germering-germany-142587",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
+  },
+  {
+   "title": "Team Lead Sales Development (AI x Renewables)",
+   "company": "Autarcenergy",
+   "location": "Berlin",
+   "country": "Germany",
+   "remote": false,
+   "visa": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/team-lead-sales-development-ai-x-renewables-berlin-448115",
+   "source": "Arbeitnow",
+   "date": "2026-10-05"
   }
  ]
 }
