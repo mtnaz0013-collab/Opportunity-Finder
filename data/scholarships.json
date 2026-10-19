@@ -26,7 +26,7 @@
    ],
    "url": "https://www.usefp.org",
    "hash": "3a1535074e38b403abdf7445c1e37fcf6ae37a3f10549445b12125eae1b9a27f",
-   "checked": "2026-10-12"
+   "checked": "2026-10-19"
   },
   {
    "name": "DAAD (Germany)",
@@ -40,7 +40,7 @@
    ],
    "url": "https://www.daad.de/en/",
    "hash": "78ce54c282bb90de8e68727641fa0c5e44466795c6e1009fb2a683909b3f7b4a",
-   "checked": "2026-10-12"
+   "checked": "2026-10-19"
   },
   {
    "name": "Türkiye Burslari",
@@ -56,7 +56,7 @@
    ],
    "url": "https://turkiyeburslari.gov.tr",
    "hash": "bb56ce4396350cd01ea30b1072e913ef77ccec44356c75b599273bef8abd894a",
-   "checked": "2026-10-12"
+   "checked": "2026-10-19"
   },
   {
    "name": "Stipendium Hungaricum",
@@ -71,7 +71,7 @@
    ],
    "url": "https://stipendiumhungaricum.hu",
    "hash": "9dd06bce9531e734b9fd2b2b2971139d968c33e84332fcb975b67cfe122f1ca6",
-   "checked": "2026-10-12"
+   "checked": "2026-10-19"
   },
   {
    "name": "Chinese Govt Scholarship (CSC)",
@@ -97,8 +97,10 @@
     "Airfare"
    ],
    "url": "https://www.studyinjapan.go.jp/en/",
-   "hash": "1b6ec0b327b7b1bc6beb867837ed35164cc680a320d06f3c20f3cc498575b88d",
-   "checked": "2026-10-12"
+   "hash": "9cc458b04b427e00578e1dd835998551dfebaecbc79cd2298f964819cd2cbc5d",
+   "checked": "2026-10-19",
+   "needs_review": true,
+   "changed_on": "2026-10-19"
   },
   {
    "name": "Erasmus Mundus",
@@ -112,7 +114,7 @@
    ],
    "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
    "hash": "1202823f4cf39cbfb1978f05824ae4b35e091fbabdc6aa7717d2a385ee7e934d",
-   "checked": "2026-10-12",
+   "checked": "2026-10-19",
    "needs_review": true,
    "changed_on": "2026-10-12"
   },
@@ -128,7 +130,7 @@
    ],
    "url": "https://www.gatescambridge.org",
    "hash": "13d52686701056d243888f5fc4ca74a10b1afbc99045526255dafc79f18f7760",
-   "checked": "2026-10-12",
+   "checked": "2026-10-19",
    "needs_review": true,
    "changed_on": "2026-10-12"
   },
@@ -157,10 +159,10 @@
     "Thesis grant"
    ],
    "url": "https://cscuk.fcdo.gov.uk",
-   "hash": "4e51431486714a8c71e20eee37bdd07781bc7e00b33046f3f2561ec9008f8447",
-   "checked": "2026-10-12",
+   "hash": "200a554e2b00910d1c3056da01c8d2506fd16223f02ad75ebd573f2d5d406731",
+   "checked": "2026-10-19",
    "needs_review": true,
-   "changed_on": "2026-10-12"
+   "changed_on": "2026-10-19"
   }
  ]
 }
