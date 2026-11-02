@@ -25,8 +25,10 @@
     "Health insurance"
    ],
    "url": "https://www.usefp.org",
-   "hash": "3a1535074e38b403abdf7445c1e37fcf6ae37a3f10549445b12125eae1b9a27f",
-   "checked": "2026-10-26"
+   "hash": "31bdf7bdaff27155ebe97abc841aa86b3abd4521853345d17eec6c4a68dd20ec",
+   "checked": "2026-11-02",
+   "needs_review": true,
+   "changed_on": "2026-11-02"
   },
   {
    "name": "DAAD (Germany)",
@@ -40,7 +42,7 @@
    ],
    "url": "https://www.daad.de/en/",
    "hash": "78ce54c282bb90de8e68727641fa0c5e44466795c6e1009fb2a683909b3f7b4a",
-   "checked": "2026-10-26"
+   "checked": "2026-11-02"
   },
   {
    "name": "Türkiye Burslari",
@@ -56,7 +58,7 @@
    ],
    "url": "https://turkiyeburslari.gov.tr",
    "hash": "bb56ce4396350cd01ea30b1072e913ef77ccec44356c75b599273bef8abd894a",
-   "checked": "2026-10-26"
+   "checked": "2026-11-02"
   },
   {
    "name": "Stipendium Hungaricum",
@@ -71,7 +73,7 @@
    ],
    "url": "https://stipendiumhungaricum.hu",
    "hash": "9dd06bce9531e734b9fd2b2b2971139d968c33e84332fcb975b67cfe122f1ca6",
-   "checked": "2026-10-26"
+   "checked": "2026-11-02"
   },
   {
    "name": "Chinese Govt Scholarship (CSC)",
@@ -97,10 +99,10 @@
     "Airfare"
    ],
    "url": "https://www.studyinjapan.go.jp/en/",
-   "hash": "9cc458b04b427e00578e1dd835998551dfebaecbc79cd2298f964819cd2cbc5d",
-   "checked": "2026-10-26",
+   "hash": "a3443e2f1578f1649f7b9d98f30be2e47fa843c3a609152f8a6e13404b9b6f02",
+   "checked": "2026-11-02",
    "needs_review": true,
-   "changed_on": "2026-10-19"
+   "changed_on": "2026-11-02"
   },
   {
    "name": "Erasmus Mundus",
@@ -114,7 +116,7 @@
    ],
    "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
    "hash": "1202823f4cf39cbfb1978f05824ae4b35e091fbabdc6aa7717d2a385ee7e934d",
-   "checked": "2026-10-26",
+   "checked": "2026-11-02",
    "needs_review": true,
    "changed_on": "2026-10-12"
   },
@@ -129,10 +131,10 @@
     "Airfare"
    ],
    "url": "https://www.gatescambridge.org",
-   "hash": "20f798feb9ebe0538cc5c55af38ed20b36af267b0e59b4823861fdc1d6748f1e",
-   "checked": "2026-10-26",
+   "hash": "ce8353c963241b35d615cb6124447faf5ac7e41dbcf6c0b88575d58c654f5f5b",
+   "checked": "2026-11-02",
    "needs_review": true,
-   "changed_on": "2026-10-26"
+   "changed_on": "2026-11-02"
   },
   {
    "name": "Australia Awards",
@@ -159,10 +161,10 @@
     "Thesis grant"
    ],
    "url": "https://cscuk.fcdo.gov.uk",
-   "hash": "b186a739c5e04c5c5095dcae30bedf86143a442388f41207a6cea5ecbc5dc4e1",
-   "checked": "2026-10-26",
+   "hash": "b8fc67515d6d4e1141f4a94ad019d9ed3f874ba4046a77eef9bc041f91d3f520",
+   "checked": "2026-11-02",
    "needs_review": true,
-   "changed_on": "2026-10-26"
+   "changed_on": "2026-11-02"
   }
  ]
 }
