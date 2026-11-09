@@ -26,7 +26,7 @@
    ],
    "url": "https://www.usefp.org",
    "hash": "31bdf7bdaff27155ebe97abc841aa86b3abd4521853345d17eec6c4a68dd20ec",
-   "checked": "2026-11-02",
+   "checked": "2026-11-09",
    "needs_review": true,
    "changed_on": "2026-11-02"
   },
@@ -58,7 +58,7 @@
    ],
    "url": "https://turkiyeburslari.gov.tr",
    "hash": "bb56ce4396350cd01ea30b1072e913ef77ccec44356c75b599273bef8abd894a",
-   "checked": "2026-11-02"
+   "checked": "2026-11-09"
   },
   {
    "name": "Stipendium Hungaricum",
@@ -72,8 +72,10 @@
     "Insurance"
    ],
    "url": "https://stipendiumhungaricum.hu",
-   "hash": "9dd06bce9531e734b9fd2b2b2971139d968c33e84332fcb975b67cfe122f1ca6",
-   "checked": "2026-11-02"
+   "hash": "24a42ebaeded85fab7b338f1bdcb731d37f2cd919f5845f0081f0697fee0efd3",
+   "checked": "2026-11-09",
+   "needs_review": true,
+   "changed_on": "2026-11-09"
   },
   {
    "name": "Chinese Govt Scholarship (CSC)",
@@ -100,7 +102,7 @@
    ],
    "url": "https://www.studyinjapan.go.jp/en/",
    "hash": "a3443e2f1578f1649f7b9d98f30be2e47fa843c3a609152f8a6e13404b9b6f02",
-   "checked": "2026-11-02",
+   "checked": "2026-11-09",
    "needs_review": true,
    "changed_on": "2026-11-02"
   },
@@ -115,10 +117,10 @@
     "Living allowance"
    ],
    "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
-   "hash": "1202823f4cf39cbfb1978f05824ae4b35e091fbabdc6aa7717d2a385ee7e934d",
-   "checked": "2026-11-02",
+   "hash": "776d9eb47320bcd517da2703f3ddffa9179d82bf7fc4fd6e53c514700a4b575c",
+   "checked": "2026-11-09",
    "needs_review": true,
-   "changed_on": "2026-10-12"
+   "changed_on": "2026-11-09"
   },
   {
    "name": "Gates Cambridge",
@@ -131,10 +133,10 @@
     "Airfare"
    ],
    "url": "https://www.gatescambridge.org",
-   "hash": "ce8353c963241b35d615cb6124447faf5ac7e41dbcf6c0b88575d58c654f5f5b",
-   "checked": "2026-11-02",
+   "hash": "580ea53399de0e7af4ad2f55e20536c3a56ca874bad3113b0f7eca30c268f2ac",
+   "checked": "2026-11-09",
    "needs_review": true,
-   "changed_on": "2026-11-02"
+   "changed_on": "2026-11-09"
   },
   {
    "name": "Australia Awards",
@@ -162,7 +164,7 @@
    ],
    "url": "https://cscuk.fcdo.gov.uk",
    "hash": "b8fc67515d6d4e1141f4a94ad019d9ed3f874ba4046a77eef9bc041f91d3f520",
-   "checked": "2026-11-02",
+   "checked": "2026-11-09",
    "needs_review": true,
    "changed_on": "2026-11-02"
   }
