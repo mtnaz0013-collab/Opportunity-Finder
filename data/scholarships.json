@@ -26,7 +26,7 @@
    ],
    "url": "https://www.usefp.org",
    "hash": "31bdf7bdaff27155ebe97abc841aa86b3abd4521853345d17eec6c4a68dd20ec",
-   "checked": "2026-11-09",
+   "checked": "2026-11-16",
    "needs_review": true,
    "changed_on": "2026-11-02"
   },
@@ -58,7 +58,7 @@
    ],
    "url": "https://turkiyeburslari.gov.tr",
    "hash": "bb56ce4396350cd01ea30b1072e913ef77ccec44356c75b599273bef8abd894a",
-   "checked": "2026-11-09"
+   "checked": "2026-11-16"
   },
   {
    "name": "Stipendium Hungaricum",
@@ -72,10 +72,10 @@
     "Insurance"
    ],
    "url": "https://stipendiumhungaricum.hu",
-   "hash": "24a42ebaeded85fab7b338f1bdcb731d37f2cd919f5845f0081f0697fee0efd3",
-   "checked": "2026-11-09",
+   "hash": "59604b663aa618509ba7e678cd00c0d42b4c18dfac6e50aa750430615511852c",
+   "checked": "2026-11-16",
    "needs_review": true,
-   "changed_on": "2026-11-09"
+   "changed_on": "2026-11-16"
   },
   {
    "name": "Chinese Govt Scholarship (CSC)",
@@ -102,7 +102,7 @@
    ],
    "url": "https://www.studyinjapan.go.jp/en/",
    "hash": "a3443e2f1578f1649f7b9d98f30be2e47fa843c3a609152f8a6e13404b9b6f02",
-   "checked": "2026-11-09",
+   "checked": "2026-11-16",
    "needs_review": true,
    "changed_on": "2026-11-02"
   },
@@ -118,7 +118,7 @@
    ],
    "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters",
    "hash": "776d9eb47320bcd517da2703f3ddffa9179d82bf7fc4fd6e53c514700a4b575c",
-   "checked": "2026-11-09",
+   "checked": "2026-11-16",
    "needs_review": true,
    "changed_on": "2026-11-09"
   },
@@ -133,10 +133,10 @@
     "Airfare"
    ],
    "url": "https://www.gatescambridge.org",
-   "hash": "580ea53399de0e7af4ad2f55e20536c3a56ca874bad3113b0f7eca30c268f2ac",
-   "checked": "2026-11-09",
+   "hash": "72f55f3c6aa5df0e9c0c61b063370a5b43abcfca5b6a019b94ff846fe5a5a356",
+   "checked": "2026-11-16",
    "needs_review": true,
-   "changed_on": "2026-11-09"
+   "changed_on": "2026-11-16"
   },
   {
    "name": "Australia Awards",
@@ -164,7 +164,7 @@
    ],
    "url": "https://cscuk.fcdo.gov.uk",
    "hash": "b8fc67515d6d4e1141f4a94ad019d9ed3f874ba4046a77eef9bc041f91d3f520",
-   "checked": "2026-11-09",
+   "checked": "2026-11-16",
    "needs_review": true,
    "changed_on": "2026-11-02"
   }
